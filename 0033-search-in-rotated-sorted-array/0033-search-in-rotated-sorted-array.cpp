@@ -14,7 +14,6 @@ public:
             mid = left + (right - left) / 2;
             
             int temp = 0;
-
             // 4 5 6 7 0 1 2
             // cek apakah target sama mid di side yang sama
             cout << "Left Idx: " << left << endl;
@@ -24,8 +23,7 @@ public:
             cout << "Mid: " << nums[mid] << endl;
             cout << "Right: " << nums[right] << endl << endl;
 
-            // 3 > 1 == 1 >= 1
-            // 
+            // 3 >= 1 == 1 >= 1
             if(target >= nums[0] == nums[mid] >= nums[0]){
                 temp = nums[mid];
             }
@@ -59,6 +57,10 @@ public:
             cout << "Right: " << nums[right] << endl << endl;
 
             cout << "=============" << endl;
+
+            if(target == nums[left]){
+                return left;
+            }
 
 
         }
