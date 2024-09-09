@@ -3,14 +3,13 @@ public:
     vector<vector<int>> spiralMatrix(int height, int width, ListNode* head) {
 
         ListNode* curr = head;
-
         vector<vector<int>> ans(height, vector<int>(width, -1));
-
         int tracker = 0, x = tracker, y = tracker;
 
         while (curr) {
 
             ans[y][x] = curr->val;
+            curr = curr->next;
 
             if (x < width - 1 && y == tracker) {
                 x++;
@@ -30,7 +29,6 @@ public:
                 x = y = tracker;
             }
             
-            curr = curr->next;
         }
 
         return ans;
