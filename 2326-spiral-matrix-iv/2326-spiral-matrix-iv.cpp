@@ -10,12 +10,7 @@ public:
 
         while (curr) {
 
-            if (ans[y][x] != -1) {
-                height--;
-                width--;
-                tracker++;
-                x = y = tracker;
-            }
+            
 
             ans[y][x] = curr->val;
             cout << x << " " << y << " " << ans[y][x] << endl;
@@ -28,6 +23,13 @@ public:
                 x--;
             } else if (x == tracker && y > tracker) {
                 y--;
+            }
+
+            if (ans[y][x] != -1) {
+                height--;
+                width--;
+                tracker++;
+                x = y = tracker;
             }
             
             curr = curr->next;
