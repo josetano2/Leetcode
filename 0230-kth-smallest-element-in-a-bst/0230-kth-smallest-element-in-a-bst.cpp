@@ -13,23 +13,29 @@ class Solution {
 public:
 
     priority_queue<int> q;
-    int kth;
 
     int kthSmallest(TreeNode* root, int k) {    
-        kth = k;
-        dfs(root);
-        return q.top();
-    }
 
-    void dfs(TreeNode* curr){
-        if(!curr) return;
-        q.push(curr->val);
+        queue<TreeNode*> nQ;
+        nQ.push(root);
 
-        if(q.size() > kth){
-            q.pop();
+        while(!nQ.empty()){
+            TreeNode* curr = nQ.front();
+            nQ.pop();
+
+            q.push(curr->val);
+            if(q.size() > k){
+                q.pop();
+            }
+
+            if(curr->left){
+                nQ.push(curr->left);
+            }
+            if(curr->right){
+                nQ.push(curr->right);
+            }
         }
-        
-        dfs(curr->left);
-        dfs(curr->right);
+
+        return q.top();
     }
 };
