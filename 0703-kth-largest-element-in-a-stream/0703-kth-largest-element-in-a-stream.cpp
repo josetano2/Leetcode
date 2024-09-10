@@ -7,27 +7,19 @@ public:
     KthLargest(int k, vector<int>& nums) {
         kth = k;
         for (auto x : nums) {
-            if (q.size() < k) {
-                q.push(x);
-            } else {
-                addToHeap(x);
+            q.push(x);
+            if (q.size() > kth) {
+                q.pop();
             }
         }
     }
 
-    void addToHeap(int val) {
-        if (q.size() < kth) {
-            q.push(val);
-            return;
-        }
-        if (q.top() <= val) {
-            q.pop();
-            q.push(val);
-        }
-    }
-
     int add(int val) {
-        addToHeap(val);
+
+        q.push(val);
+        if (q.size() > kth) {
+            q.pop();
+        }
         return q.top();
     }
 };
