@@ -1,9 +1,11 @@
 class KthLargest {
 private:
     priority_queue<int, vector<int>, greater<int>> q;
+    int kth;
 
 public:
     KthLargest(int k, vector<int>& nums) {
+        kth = k;
         for (auto x : nums) {
             if (q.size() < k) {
                 q.push(x);
@@ -14,6 +16,10 @@ public:
     }
 
     void addToHeap(int val) {
+        if (q.size() < kth) {
+            q.push(val);
+            return;
+        }
         if (q.top() <= val) {
             q.pop();
             q.push(val);
