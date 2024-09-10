@@ -31,11 +31,8 @@ public:
             if (nextCurr) {
 
                 ListNode* nn = new ListNode(gcd(curr->val, nextCurr->val));
-                cout << curr->val << endl;
                 curr->next = nn;
                 nn->next = nextCurr;
-
-                curr = nextCurr;
             }
             curr = nextCurr;
         }
