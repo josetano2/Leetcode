@@ -11,13 +11,35 @@
  */
 class Solution {
 public:
+    vector<int> ans;
     int diameterOfBinaryTree(TreeNode* root) {
+        dfs(root);
+
+        int diameter = -1;
+        for(auto x : ans){
+            diameter = max(diameter, x);
+        }
+
+        return diameter;
+    }
+
+    int countHeight(TreeNode* curr){
         int heightLeft = 0, heightRight = 0;
 
-        if(root->left) heightLeft = height(root->left);
-        if(root->right) heightRight = height(root->right);
+        if(curr->left) heightLeft = height(curr->left);
+        if(curr->right) heightRight = height(curr->right);
 
         return heightLeft + heightRight;
+    }
+
+    void dfs(TreeNode* curr){
+        if(!curr){
+            return;
+        }
+
+        ans.push_back(countHeight(curr));
+        dfs(curr->left);
+        dfs(curr->right);
     }
 
     int height(TreeNode* curr){
