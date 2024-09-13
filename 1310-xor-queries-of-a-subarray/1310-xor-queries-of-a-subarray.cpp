@@ -1,22 +1,5 @@
 class Solution {
 public:
-
-    // brute force approach
-    // vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
-    //     vector<int> ans;
-    //     for(auto query : queries){
-
-    //         int left = query[0], right = query[1], total = 0;
-    //         while(left <= right){
-    //             total = total ^ arr[left];
-    //             left++;
-    //         }
-
-    //         ans.push_back(total);
-    //     }
-    //     return ans;
-    // }
-
     // optimized
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
        
@@ -26,9 +9,7 @@ public:
 
         vector<int> ans;
 
-        for(int i = 1; i < len; i++){
-            xors[i] = xors[i - 1] ^ arr[i];     
-        }
+        for(int i = 1; i < len; i++) xors[i] = xors[i - 1] ^ arr[i];  
         
         for(auto q : queries){
             if(q[1] - q[0] == 0) ans.push_back(arr[q[1]]);
