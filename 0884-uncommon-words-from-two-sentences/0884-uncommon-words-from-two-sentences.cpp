@@ -13,8 +13,6 @@ public:
                 temp = "";
             };
         }
-
-        temp = "";
         for(int i = 0; i < len2; i++){
             if(s2[i] != ' ' && i != len2 - 1) temp.push_back(s2[i]);
             else{
@@ -24,15 +22,10 @@ public:
             };
         }
 
-
         vector<string> ans;
-        for(auto x : map1){
-            if(x.second == 1 && map2[x.first] == 0) ans.push_back(x.first);
-        }
-        for(auto x : map2){
-            if(x.second == 1 && map1[x.first] == 0) ans.push_back(x.first);
-        }
-
+        for(auto x : map1) if(x.second == 1 && map2[x.first] == 0) ans.push_back(x.first);
+        for(auto x : map2) if(x.second == 1 && map1[x.first] == 0) ans.push_back(x.first);
+        
         return ans;
     }
 };
