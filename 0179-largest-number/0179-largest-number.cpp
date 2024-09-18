@@ -10,11 +10,7 @@ public:
         int len = nums.size();
         string ans = "";
 
-        for(auto x : nums){
-            if(ans[0] != '0' || x != 0) ans.append(to_string(x));
-            
-        };
-
+        for(auto x : nums) if(ans[0] != '0' || x != 0) ans.append(to_string(x));
         return ans;
 
     }
