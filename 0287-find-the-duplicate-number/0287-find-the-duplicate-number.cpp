@@ -6,7 +6,6 @@ public:
 
         do{
             slow = nums[slow];
-
             fast = nums[fast];
             fast = nums[fast];
         }while(slow != fast);
@@ -18,10 +17,6 @@ public:
             start = nums[start];
         }while(start != slow);
 
-        cout << slow << " " << fast << endl;
-
         return slow;
-
-
     }
 };
