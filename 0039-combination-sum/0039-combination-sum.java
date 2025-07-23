@@ -13,15 +13,9 @@ class Solution {
                 continue;
             curr.add(candidates[i]);
             currSum += candidates[i];
-
-            System.out.println("Before: " + curr + " " + currSum);
-
             backtrack(curr, currSum, candidates, target);
             currSum -= curr.get(curr.size() - 1);
             curr.remove(curr.size() - 1);
-
-            System.out.println("After: " + curr + " " + currSum);
-            System.out.println();
         }
     }
 
