@@ -3,48 +3,19 @@ class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
         int len = gas.length;
 
-        int startingIdx = -1;
-        int idx = -1;
-        boolean isLooped = false;
-        int lastGas = gas[0];
+        int totalGas = 0, startIdx = 0, currGas = 0; 
 
-        if(len == 1) {
-            return gas[0] - cost[0] >= 0 ? 0 : -1;
-        }
+        for(int i = 0; i < len; i++){
+            int diff = gas[i] - cost[i];
+            totalGas += diff;
+            currGas += diff;
 
-        for(int i = 0; i < len; i++) {
-            if(gas[i] - cost[i] > 0) {
-                startingIdx = i;
-                lastGas = gas[i];
-                idx = i;
-                break;
+            if(currGas < 0) {
+                startIdx = i + 1;
+                currGas = 0;
             }
         }
 
-        if(startingIdx == -1) return -1;
- 
-        do {
-            if (startingIdx == idx && isLooped) {
-                break;
-            }
-
-            lastGas = lastGas - cost[idx];
-
-            if (lastGas >= 0) {
-                lastGas += +gas[(1 + idx) % len];
-                idx = (1 + idx) % len;
-                if (startingIdx == idx) {
-                    isLooped = true;
-                }
-            }
-            else {
-                startingIdx++;
-                idx = startingIdx;
-                lastGas = gas[idx % len];
-            }
-
-        } while (startingIdx < len);
-
-        return isLooped ? startingIdx : -1;
+        return totalGas >= 0 ? startIdx : -1;
     }
 }
