@@ -24,9 +24,6 @@ public:
         cache = vector<int>(nums.size(), -1);
 
         bool x = dp(0, nums);
-        for(auto x : cache) {
-            cout << x << " ";
-        }
         return dp(0, nums);
     }
 };
