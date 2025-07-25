@@ -32,7 +32,6 @@ public:
                     return false;
                 }
             }
-            cout << top << " ";
         }
         
         return true;
