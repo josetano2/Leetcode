@@ -28,4 +28,22 @@ public:
         }
         return highest;
     }
+    // A more optimized solution ?
+
+    // int maximumTop(vector<int>& nums, int k) {
+    //     int n = nums.size();
+
+    //     if (k == 0) return nums[0];
+    //     if (n == 1) return (k % 2 == 0) ? nums[0] : -1;
+
+    //     int maxVal = INT_MIN;
+
+    //     for (int i = 0; i < min(k - 1, n); ++i)
+    //         maxVal = max(maxVal, nums[i]);
+
+    //     if (k < n)
+    //         maxVal = max(maxVal, nums[k]);
+
+    //     return maxVal;
+    // }
 };
