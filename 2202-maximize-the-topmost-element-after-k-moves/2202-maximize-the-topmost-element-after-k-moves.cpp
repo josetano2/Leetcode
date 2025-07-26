@@ -4,8 +4,10 @@ public:
 
         if (k == 0)
             return nums[0];
-        if (nums.size() == 1 && k <= nums.size())
-            return -1;
+        if (nums.size() == 1) {
+            if(k % 2 != 0)return -1;
+            else return nums[0];
+        }
         
 
         stack<int> stk;
