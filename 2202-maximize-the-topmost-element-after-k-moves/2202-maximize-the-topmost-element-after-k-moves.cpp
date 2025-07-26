@@ -17,7 +17,6 @@ public:
 
         int highest = INT_MIN;
         while (k > 1 && !stk.empty()) {
-            cout << stk.top() << endl;
             highest = max(stk.top(), highest);
             stk.pop();
             k--;
