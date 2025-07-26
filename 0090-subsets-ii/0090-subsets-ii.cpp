@@ -4,15 +4,13 @@ public:
     vector<vector<int>> ans;
 
     void backtrack(int idx, vector<int>& curr, vector<int>& nums) {
-        if (idx >= nums.size() && !unique.count(curr)) {
-            ans.push_back(vector<int>(curr));
-            unique.insert(vector<int>(curr));
+        if (idx >= nums.size()) {
+            if (!unique.count(curr)) {
+                ans.push_back(vector<int>(curr));
+                unique.insert(vector<int>(curr));
+            }
             return;
         }
-
-        if (idx >= nums.size())
-            return;
-        
         curr.push_back(nums[idx]);
         backtrack(idx + 1, curr, nums);
 
