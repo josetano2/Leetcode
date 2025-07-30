@@ -8,7 +8,6 @@ public:
 
             if(prices[i] < prices[i + 1] && currHold == -1) {
                 currHold = prices[i];
-                cout << currHold;
             }
 
             if(prices[i] > prices[i + 1] && currHold != -1) {
