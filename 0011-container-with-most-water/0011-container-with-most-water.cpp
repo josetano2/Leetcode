@@ -12,7 +12,7 @@ public:
             area = max(area, curr * (r - l));
 
             if(height[l] < height[r]) l++;
-            else r++;
+            else r--;
         }
 
         return area;
