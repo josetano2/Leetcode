@@ -2,25 +2,26 @@ class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
 
-        int highest = -1, steps = 1, currHighestSteps = 1;
+        int highest = INT_MIN, consecutively = 1, ans = 1;
 
-        for(auto x : nums) {
-            if(x > highest){
+        for (auto x : nums) {
+            if (x > highest) {
                 highest = x;
-                currHighestSteps = 1; 
-                steps = 1;
+                ans = 1;
+                consecutively = 1;
             }
-            else if(x < highest){
-                cout << currHighestSteps << " " << steps << endl;
-                currHighestSteps = max(steps, currHighestSteps);
-                steps = 0;
+
+            else if (x == highest) {
+                consecutively++;
             }
+
             else {
-                steps++;
+                ans = max(ans, consecutively);
+                consecutively = 0;
             }
         }
 
-        return max(currHighestSteps, steps);
-        
+        cout << ans << " " << consecutively << endl;
+        return max(ans, consecutively);
     }
 };
