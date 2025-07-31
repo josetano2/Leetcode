@@ -1,27 +1,27 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        
-        int l = 0, r = 0, ans = 0, len = s.size();
-        unordered_set<char> uSet;
+        int len = s.length();
 
-        while(r < len) {
-            if(!uSet.count(s[r])) {
-                uSet.insert(s[r]);
-                r++;
+        if(len <= 1){
+            return len;
+        }
+
+        int left = 0, right = 0, ans = -1;
+        unordered_set<char> charSet;
+
+        while(right < len){
+            if(charSet.find(s[right]) == charSet.end()){
+                charSet.insert(s[right]);
+                right++;
+                ans = max(ans, right - left);
             }
-            else {
-                ans = max(ans, r - l);
-                while(uSet.count(s[r])) {
-                    uSet.erase(s[l]);
-                    l++;
-                }
+            else{
+                charSet.erase(s[left]);
+                left++;
             }
         }
 
-        cout << r << " " << l << endl;
-        ans = max(ans, r - l);
         return ans;
-
     }
 };
