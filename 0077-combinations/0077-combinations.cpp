@@ -4,6 +4,7 @@ public:
     void backtrack(int idx, int n, int k, vector<int> curr) {
         if (curr.size() == k) {
             ans.push_back(vector<int>(curr));
+            return;
         }
 
         for (int i = idx; i <= n; i++) {
