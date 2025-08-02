@@ -16,9 +16,9 @@ public:
         int temp = INT_MAX;
         for(int i = 0; i < nums.size(); i++) {
             if(idx - nums[i] < 0) continue;
-            temp = min(temp, calculate(idx - nums[i]) + 1);
-            if(temp != INT_MAX) {
-                dp[idx] = temp;
+            int res = calculate(idx - nums[i]);
+            if(res != INT_MAX) {
+                temp = min(temp, res + 1);
             }
         }
 
