@@ -7,9 +7,6 @@ public:
         // Return L if smaller then right side
         while(l < r) {
             mid = l + ((r - l) / 2);
-
-            cout << l << " " << mid << " " << r << endl;
-
             if(nums[mid] > nums[r]) {
                 l = mid + 1;
             }
