@@ -5,7 +5,7 @@ public:
         unordered_set<int> tracker;
         int maxNum = INT_MIN;
 
-        vector<int> residue(1000000, 0);
+        vector<int> residue(value, 0);
 
         for (int i = 0; i < nums.size(); i++) {
             int curr = nums[i] % value;
