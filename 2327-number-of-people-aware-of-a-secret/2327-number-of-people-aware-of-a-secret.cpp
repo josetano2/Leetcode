@@ -11,8 +11,6 @@ public:
             int forgetIdx = i - forget >= 0 ? i - forget : 0;
             long long int spread = dp[delayIdx];
             long long int forget = dp[forgetIdx];
-
-            cout << know + spread - forget << endl;
             dp[i] = (((know + spread - forget) % MOD) + MOD) % MOD;
             know = dp[i];
         }
