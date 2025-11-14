@@ -18,6 +18,6 @@ public:
         long long int tot = 0;
         for(int i = n - forget + 1; i <= n; i++) tot += dp[i];
 
-        return tot % 1000000007;
+        return tot % MOD;
     }
 };
