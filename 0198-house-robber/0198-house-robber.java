@@ -13,13 +13,12 @@ class Solution {
         }
 
         cache[idx] = Math.max(nums[idx] + dp(idx + 2, nums), dp(idx + 1, nums));
-
         return cache[idx];
     }
 
     public int rob(int[] nums) {
         cache = new int[nums.length];
         Arrays.fill(cache, -1);
-        return Math.max(dp(0, nums), dp(1, nums));
+        return dp(0, nums);
     }
 }
