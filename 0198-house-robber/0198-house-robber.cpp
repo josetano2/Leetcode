@@ -12,7 +12,6 @@ public:
 
     int rob(vector<int>& nums) {
         cache = vector<int>(nums.size(), -1);
-        dp(nums, 0);
-        return cache[0];
+        return dp(nums, 0);
     }
 };
