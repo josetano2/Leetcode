@@ -5,7 +5,7 @@ public:
 
         for(auto x : nums) uSet.insert(x);
 
-        while(uSet.find(original) != uSet.end()) {
+        while(uSet.count(original)) {
             original *= 2;
         }
 
