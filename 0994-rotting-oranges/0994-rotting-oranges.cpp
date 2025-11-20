@@ -34,7 +34,6 @@ public:
         vector<pair<int, int>> directions = {{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
         while(!rottenQueues.empty()) {
             int size = rottenQueues.size();
-            cout << size << endl;
 
             // Do BFS Here
             while(size > 0) {
