@@ -6,7 +6,7 @@ public:
 
         long long int curr = 1;
         int i = 1;
-        while(true) {
+        while(i <= k) {
             if(curr % k == 0) return i;
             curr = (curr * 10 + 1) % k;
             i++;
