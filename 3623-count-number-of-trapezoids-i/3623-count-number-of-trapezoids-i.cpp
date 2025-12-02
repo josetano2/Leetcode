@@ -17,7 +17,7 @@ public:
         for(int i = 0; i < horizontals.size(); i++) {
             int len = horizontals[i].second;
 
-            long long way = (len % MOD * (len % MOD - 1) % MOD) / 2;
+            long long way = (len % MOD * (len % MOD - 1)) / 2;
             sum += way;
             squareSum += way * way;
         }  
