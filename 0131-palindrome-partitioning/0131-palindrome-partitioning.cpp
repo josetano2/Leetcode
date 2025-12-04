@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isValid(string s, int l, int r) {
+    bool isValid(string& s, int l, int r) {
         while (l < r) {
             if (s[l] != s[r]) return false;
             r--;
