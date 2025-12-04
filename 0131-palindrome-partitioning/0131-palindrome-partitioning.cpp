@@ -9,10 +9,10 @@ public:
         return true;
     }
 
-    void backtrack(string s, int j, int i, vector<string>& curr, vector<vector<string>>& ans) {
+    void backtrack(string& s, int j, int i, vector<string>& curr, vector<vector<string>>& ans) {
 
         if (i >= s.size()) {
-            if (i == j) ans.push_back(vector<string>(curr));
+            if (i == j) ans.push_back(curr);
             return;
         }
 
