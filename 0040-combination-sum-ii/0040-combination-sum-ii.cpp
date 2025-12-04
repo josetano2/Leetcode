@@ -15,6 +15,7 @@ public:
             return;
 
         for (int i = idx; i < candidates.size(); i++) {
+            if(i > idx && candidates[i] == candidates[i - 1]) continue;
             curr.push_back(candidates[i]);
             backtrack(target, i + 1, currTotal + candidates[i], candidates,
                       curr, ans, cache);
