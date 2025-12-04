@@ -1,8 +1,6 @@
 class Solution {
 public:
-    void backtrack(int target, int idx, int currTotal, vector<int>& candidates,
-                   vector<int>& curr, vector<vector<int>>& ans,
-                   set<vector<int>>& cache) {
+    void backtrack(int target, int idx, int currTotal, vector<int>& candidates, vector<int>& curr, vector<vector<int>>& ans, set<vector<int>>& cache) {
         if (currTotal == target) {
             if (!cache.count(curr)) {
                 ans.push_back(curr);
@@ -11,14 +9,12 @@ public:
             return;
         }
 
-        if (currTotal > target)
-            return;
+        if (currTotal > target) return;
 
         for (int i = idx; i < candidates.size(); i++) {
             if(i > idx && candidates[i] == candidates[i - 1]) continue;
             curr.push_back(candidates[i]);
-            backtrack(target, i + 1, currTotal + candidates[i], candidates,
-                      curr, ans, cache);
+            backtrack(target, i + 1, currTotal + candidates[i], candidates, curr, ans, cache);
             curr.pop_back();
         }
     }
