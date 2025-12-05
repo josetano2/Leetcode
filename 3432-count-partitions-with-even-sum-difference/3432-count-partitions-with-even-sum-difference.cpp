@@ -10,12 +10,11 @@ public:
         for(int i = 0; i < nums.size() - 1; i++) {
             r = total - l;
             int diff = l - r;
-            cout << diff << endl;
-            if((diff ^ 1) == diff + 1) {
-                ans++;
-            }
-            l += prefixSum[i + 1];
-            r -= prefixSum[i + 1];
+            
+            if((diff ^ 1) == diff + 1) ans++;
+            
+            l += nums[i + 1];
+            r -= nums[i + 1];
         }
         
         return ans;
