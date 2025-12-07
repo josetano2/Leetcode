@@ -32,9 +32,11 @@ public:
             }
         }
 
-        vector<int> ans;
-        for(auto& x : asteroids) if(x != 0) ans.push_back(x);
+        asteroids.erase(
+            remove(asteroids.begin(), asteroids.end(), 0),
+            asteroids.end()
+        );
 
-        return ans;
+        return asteroids;
     }
 };
