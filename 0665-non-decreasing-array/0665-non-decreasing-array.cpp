@@ -12,16 +12,12 @@ public:
                         if(next >= prev) nums[i] = next;
                         if(prev > next) nums[i + 1] = curr;
                     }
-                    if(i == 0) {
-                        nums[i] = nums[i + 1] - 1;
-                    }
+                    if(i == 0) nums[i] = nums[i + 1] - 1;
                 }
                 else return false;
             }
             peak = max(nums[i], peak);
-
             if(nums[i + 1] < peak && count == 1) return false;
-            
         }
         return true;
     }
