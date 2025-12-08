@@ -17,12 +17,8 @@ public:
     }
 
     int minDistance(string word1, string word2) {
-
         string longerWord = word1.size() >= word2.size() ? word1 : word2;
         string shorterWord = word1.size() < word2.size() ? word1 : word2;
-        int len = lcs(longerWord, shorterWord);
-
-        int rem1 = longerWord.size() - len, rem2 = shorterWord.size() - len;
-        return rem1 + rem2;
+        return  longerWord.size() + shorterWord.size() - 2 * lcs(longerWord, shorterWord);
     }
 };
