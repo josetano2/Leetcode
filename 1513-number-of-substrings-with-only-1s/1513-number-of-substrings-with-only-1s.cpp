@@ -8,7 +8,6 @@ public:
         
         for(int i = 1; i < 100000; i++) cache[i] = (cache[i - 1] + i + 1) % MOD;
 
-        cout << endl;
         for(int i = 0; i < s.size(); i++) {
             if(s[i] == '1') {
                 int curr = i;
