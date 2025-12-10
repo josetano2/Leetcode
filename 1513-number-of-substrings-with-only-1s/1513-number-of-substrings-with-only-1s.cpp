@@ -8,7 +8,7 @@ public:
                 while(curr < s.size() && s[curr] == '1') {
                     curr++;
                 }
-                int diff = curr - i;
+                long long int diff = curr - i;
                 ans = (ans + (diff * (diff + 1) / 2)) % MOD;
                 i = curr;
             }
