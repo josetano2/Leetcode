@@ -24,6 +24,6 @@ public:
             if(track[1].size() >= 2) toRemove = min(toRemove, *track[1].begin() + *next(track[1].begin()));
         }
 
-        return toRemove == INT_MAX ? 0 : tot - toRemove;    
+        return toRemove == INT_MAX ? 0 : tot - toRemove;
     }
 };
