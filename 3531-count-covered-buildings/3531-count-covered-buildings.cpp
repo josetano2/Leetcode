@@ -16,7 +16,9 @@ public:
         for (auto& coordinates : buildings) {
             int x = coordinates[0], y = coordinates[1];
 
-            if(x < *hashY[y].rbegin() && x > *hashY[y].begin() && y < *hashX[x].rbegin() && y > *hashX[x].begin()) ans++;
+            if (x < *hashY[y].rbegin() && x > *hashY[y].begin() &&
+                y < *hashX[x].rbegin() && y > *hashX[x].begin())
+                ans++;
         }
 
         return ans;
