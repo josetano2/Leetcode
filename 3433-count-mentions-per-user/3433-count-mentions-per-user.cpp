@@ -10,7 +10,6 @@ public:
         for(auto& event : events) {
             string msgEvent = event[0];
             int timestamp = stoi(event[1]);
-            cout << msgEvent << " " << timestamp << endl;
 
             if(msgEvent == "MESSAGE") {
                 string scope = event[2];
@@ -21,29 +20,22 @@ public:
                     }
                 }
                 else if(scope == "ALL") {
-                    for(auto& x : mentions) {
-                        x[0]++;
-                    }
+                    for(auto& x : mentions) x[0]++;
+                    
                 }
                 else {
                     vector<int> tags;
                     stringstream ss(scope);
                     string word;
 
-                    while (ss >> word) tags.push_back(stoi(word.substr(2)));
-
-                    for(auto& x : tags) {
-                        mentions[x][0]++;
-                    }
-                    
+                    while (ss >> word) mentions[stoi(word.substr(2))][0]++;
                 }
             }
             else {
                 int id = stoi(event[2]);
                 mentions[id][1] = timestamp + 60;
             }
-         }
-
+        }
 
         vector<int> ans;
         for(auto& x : mentions) ans.push_back(x[0]);
