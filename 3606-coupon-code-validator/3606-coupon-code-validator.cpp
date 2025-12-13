@@ -1,13 +1,8 @@
 class Solution {
 public:
     bool isValid(string s) {
-        if (s.empty())
-            return false;
-        for (char c : s) {
-            if (!(isalnum(c) || c == '_')) {
-                return false;
-            }
-        }
+        if (s.empty()) return false;
+        for (char c : s) if (!(isalnum(c) || c == '_')) return false;
         return true;
     }
 
