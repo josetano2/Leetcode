@@ -27,7 +27,6 @@ public:
         vector<string> ans;
         for(auto& [x, y] : business) {
             sort(y.begin(), y.end());
-            cout << x << endl;
             ans.insert(ans.end(), y.begin(), y.end());
         }
 
