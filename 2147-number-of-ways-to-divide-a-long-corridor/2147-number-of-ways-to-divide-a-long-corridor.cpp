@@ -17,7 +17,7 @@ public:
         }
         
         if(start != -1) return 0;
-        if(sPairs.size() == 1) return 1;
+        if(sPairs.size() == 0 || sPairs.size() == 1) return sPairs.size();
 
         long long int ans = sPairs[1].first - sPairs[0].second;
         for(int i = 1; i < sPairs.size() - 1; i++) {
