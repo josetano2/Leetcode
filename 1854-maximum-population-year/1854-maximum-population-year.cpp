@@ -2,25 +2,21 @@ class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
 
-        unordered_map<int, int> population;
-        pair<int, int> ans = {-1, -1};
-        for(auto& x : logs) {
-            int diff = x[1] - x[0];
-            int year = x[0];
-            for(int i = 0; i < diff; i++) {
-                population[year]++;
+        vector<int> diff(101, 0);
 
-                if(population[year] > ans.second) {
-                    ans.first = year;
-                    ans.second = population[year];
-                }
-
-                year++;
-            }
+        for(auto& log : logs) {
+            diff[log[0] - 1950]++;
+            diff[log[1] - 1950]--;
         }
 
-        for(auto& [x, y] : population) if(y == ans.second) ans.first = min(x, ans.first);
-        
-        return ans.first;
+        int biggestPopulation = INT_MIN, currPopulation = 0, earliestYear = INT_MIN;
+        for(int i = 0; i < 101; i++) {
+            currPopulation += diff[i];
+            if(currPopulation > biggestPopulation) {
+                biggestPopulation = currPopulation;
+                earliestYear = i + 1950;
+            }
+        }
+        return earliestYear;
     }
 };
