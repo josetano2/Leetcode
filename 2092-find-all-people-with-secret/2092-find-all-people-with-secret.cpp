@@ -10,8 +10,7 @@ public:
         }
     }
 
-    vector<int> findAllPeople(int n, vector<vector<int>>& meetings,
-                              int firstPerson) {
+    vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson) {
 
         sort(meetings.begin(), meetings.end(),
              [](const vector<int>& a, const vector<int>& b) {
