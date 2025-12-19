@@ -42,11 +42,6 @@ public:
                 }
             }
         }
-
-        vector<int> ans;
-        for (auto& x : secret)
-            ans.push_back(x);
-
-        return ans;
+        return vector<int>(secret.begin(), secret.end());
     }
 };
