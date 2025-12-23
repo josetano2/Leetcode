@@ -32,7 +32,6 @@ public:
             
             bestSingle[i] = max(bestSingle[i - 1], val);
             dp[i] = max(dp[i - 1], res == -1 ? val : bestSingle[res] + val);
-
         }
 
         return dp[events.size() - 1];
