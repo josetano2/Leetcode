@@ -15,7 +15,7 @@ public:
     }
 
     double separateSquares(vector<vector<int>>& squares) {
-        double l = DBL_MAX, r = DBL_MIN, area = 0;
+        double l = DBL_MAX, r = DBL_MIN, area = 0, E = 1e-6;
 
         for (auto& s : squares) {
             if (s[1] < l)
@@ -27,14 +27,13 @@ public:
         }
         area /= 2;
 
-        while (r - l > 1e-6) {
+        while (r - l > E) {
             double mid = l + ((r - l) / 2.0);
             if (calculateAreaBelowMid(squares, mid) < area)
                 l = mid;
             else
                 r = mid;
         }
-
         return l;
     }
 };
