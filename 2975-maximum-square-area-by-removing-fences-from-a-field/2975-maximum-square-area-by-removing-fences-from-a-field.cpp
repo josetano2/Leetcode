@@ -3,6 +3,7 @@ public:
 
     unordered_set<int> generatePossiblePos(int x, vector<int>& fences) {
         unordered_set<int> possible;
+        sort(fences.begin(), fences.end());
         possible.insert(x - 1);
 
         for(int i = 0; i < fences.size(); i++) {
@@ -12,7 +13,7 @@ public:
 
         for(int i = 0; i < fences.size(); i++) {
             for(int j = i + 1; j < fences.size(); j++) {
-                possible.insert(abs(fences[j] - fences[i]));
+                possible.insert(fences[j] - fences[i]);
             }
         }
 
