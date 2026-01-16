@@ -10,10 +10,9 @@ public:
 
         while(extraStudents > 0) {
             auto [topDiff, i] = pq.top();
-            cout << topDiff << " " << i << endl;
             pq.pop();
 
-            classes[i][0] += 1; classes[i][1] += 1;
+            classes[i][0]++; classes[i][1]++;
             double totPass = (double) classes[i][0], totStudent = (double) classes[i][1];
             double diff = ((totPass + 1)/(totStudent + 1)) - (totPass/totStudent);
             pq.push({diff, i});
