@@ -1,21 +1,22 @@
 class Solution {
 public:
+
+    double calculateDiff(double pass, double student) {
+        return ((pass + 1)/(student + 1)) - (pass/student);
+    }
+    
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
         priority_queue<pair<double, int>> pq;
+
         for(int i = 0; i < classes.size(); i++) {
-            double totPass = (double) classes[i][0], totStudent = (double) classes[i][1];
-            double diff = ((totPass + 1)/(totStudent + 1)) - (totPass/totStudent);
-            pq.push({diff, i}); 
+            pq.push({calculateDiff(classes[i][0], classes[i][1]), i}); 
         }
 
         while(extraStudents > 0) {
             auto [topDiff, i] = pq.top();
             pq.pop();
-
             classes[i][0]++; classes[i][1]++;
-            double totPass = (double) classes[i][0], totStudent = (double) classes[i][1];
-            double diff = ((totPass + 1)/(totStudent + 1)) - (totPass/totStudent);
-            pq.push({diff, i});
+            pq.push({calculateDiff(classes[i][0], classes[i][1]), i}); 
             extraStudents--;
         }
 
