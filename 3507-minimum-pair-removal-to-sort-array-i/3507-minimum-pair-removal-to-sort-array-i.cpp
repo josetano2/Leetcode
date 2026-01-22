@@ -35,7 +35,6 @@ public:
         }
 
         int count = 0;
-        cout << violations << endl;
         while(violations > 0) {
             auto& [diff, curr] = *pairMinSumSet.begin();
             Node* l = curr;
