@@ -55,7 +55,6 @@ public:
             nn->next = r->next;
             
             if(nn->prev) nn->prev->next = nn;
-            else head = nn;
             if(nn->next) nn->next->prev = nn;
 
             if(nn->prev) pairMinSumSet.insert({{nn->prev->val + nn->val, nn->prev->idx}, nn->prev});
