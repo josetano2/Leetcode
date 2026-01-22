@@ -9,9 +9,7 @@ public:
             while(r - 1 >= 0 && s[r] == s[r - 1]) r--;
 
             l++; r--;
-        }
-        cout << l << " " << r << endl;
-        
+        }        
         return l <= r ? r - l + 1 : 0;
     }
 };
