@@ -36,7 +36,7 @@ public:
 
         int count = 0;
         while(violations > 0) {
-            auto& [diff, curr] = *pairMinSumSet.begin();
+            auto [diff, curr] = *pairMinSumSet.begin();
             Node* l = curr;
             Node* r = l->next;
 
