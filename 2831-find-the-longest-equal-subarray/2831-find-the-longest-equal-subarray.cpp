@@ -19,9 +19,6 @@ public:
                 l++;
             }
         }
-
-        for(auto& x : freq) cout << x.first << " " << x.second << endl << endl;
-        cout << p.first << " " << p.second << endl;
         return p.second;
     }
 };
