@@ -7,11 +7,11 @@ public:
         pair<int, int> p = {nums[l], freq[nums[l]]};
 
         while(r < nums.size()) {
-            freq[nums[r]]++;
-            if(freq[nums[r]] > p.second) {
+            if(r - l - p.second <= k) {
+                freq[nums[r]]++;
+                if(freq[nums[r]] > p.second) {
                     p.first = nums[r]; p.second = freq[nums[r]];
                 }
-            if(r - l + 1 - p.second <= k) {
                 r++;
             }
             else {
