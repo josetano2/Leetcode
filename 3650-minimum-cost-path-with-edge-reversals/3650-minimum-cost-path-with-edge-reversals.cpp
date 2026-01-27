@@ -12,8 +12,6 @@ public:
         }
 
         vector<int> dist(n, INT_MAX);
-        vector<bool> visited(n, false);
-
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
 
         dist[0] = 0;
@@ -22,11 +20,8 @@ public:
         while (!pq.empty()) {
             auto [currNode, currCost] = pq.top();
             pq.pop();
-
-            if (visited[currNode]) continue;
-
-            visited[currNode] = true;
-
+            
+            if (currCost > dist[currNode]) continue;
             if (currNode == n - 1) return currCost;
 
             for (auto [v, w] : graph[currNode]) {
@@ -38,7 +33,6 @@ public:
                 }
             }
         }
-
         return -1;
     }
 };
