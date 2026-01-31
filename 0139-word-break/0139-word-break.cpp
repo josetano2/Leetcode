@@ -10,7 +10,6 @@ public:
         for(int i = 0; i < s.size() + 1; i++) {
             for(int j = 0; j < i; j++) {
                 string sub = s.substr(j, i - j);
-                cout << sub << endl;
                 if(dp[j] && check.count(sub)) {
                     dp[i] = true;
                     break;
