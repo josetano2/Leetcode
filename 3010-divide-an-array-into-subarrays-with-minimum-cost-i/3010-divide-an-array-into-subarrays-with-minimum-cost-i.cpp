@@ -1,12 +1,15 @@
 class Solution {
 public:
     int minimumCost(vector<int>& nums) {
-        priority_queue<int, vector<int>, greater<int>> pq;
-        int ans = nums[0];
-        for(int i = 1; i < nums.size(); i++) pq.push(nums[i]);
-        for(int i = 0; i < 2; i++) {
-            ans += pq.top(); pq.pop();
+        int n1 = INT_MAX, n2 = INT_MAX;
+        for(int i = 1; i < nums.size(); i++) {
+            if(nums[i] < n1) {
+                n2 = n1;
+                n1 = nums[i];
+            }
+            else if(nums[i] < n2) n2 = nums[i];
+
         }
-        return ans;
+        return nums[0] + n1 + n2;
     }
 };
