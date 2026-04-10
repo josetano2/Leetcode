@@ -24,8 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/josetano2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/josetano2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 <!---LeetCode Topics End-->
