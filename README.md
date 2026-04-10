@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/josetano2/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/josetano2/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
+| [3206-alternating-groups-i](https://github.com/josetano2/Leetcode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/josetano2/Leetcode/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/josetano2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Prefix Sum
@@ -49,5 +50,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3206-alternating-groups-i](https://github.com/josetano2/Leetcode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/josetano2/Leetcode/tree/main/3208-alternating-groups-ii/) | Medium |
 <!---LeetCode Topics End-->
