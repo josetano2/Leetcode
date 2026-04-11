@@ -1,11 +1,9 @@
 class Solution {
 public:
-    bool checkSubSeq(string& s, string& p, unordered_set<int>& skipped) {
+    bool checkSubSeq(string& s, string& p, vector<bool>& skipped) {
         int i = 0, j = 0;
         while (i < s.size() && j < p.size()) {
-            if(skipped.count(i)) {
-                i++; continue;
-            }
+            if(skipped[i]) { i++; continue; }
             if (s[i] == p[j]) j++;
             i++;
         }
@@ -13,14 +11,15 @@ public:
     }
 
     int maximumRemovals(string s, string p, vector<int>& removable) {
-        int l = 0, r = removable.size() - 1, mid = 0;
+        int l = 0, r = removable.size();
 
-        unordered_set<int> removed;
-        while(l <= r) {
-            mid = l + (r - l) / 2;
+        while(l < r) {
+            int mid = l + (r - l + 1) / 2;
 
-            unordered_set<int> removed(removable.begin(), removable.begin() + mid + 1);
-            if(checkSubSeq(s, p, removed)) l = mid + 1;
+            vector<bool> removed(s.size(), false);
+            for(int i = 0; i < mid; i++) removed[removable[i]] = true;
+
+            if(checkSubSeq(s, p, removed)) l = mid;
             else r = mid - 1;
         }
 
