@@ -38,13 +38,6 @@ public:
                 s[i] = filled[curr]; curr++;
             }
         }
-        auto temp = pq;
-        while (!temp.empty()) {
-            auto [count, ch] = temp.top();
-            cout << ch << " " << count << endl;
-            temp.pop();
-        }
-    
         return s;
     }
 };
