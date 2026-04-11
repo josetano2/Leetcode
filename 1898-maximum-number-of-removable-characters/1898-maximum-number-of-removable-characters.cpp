@@ -19,16 +19,10 @@ public:
         while(l <= r) {
             mid = l + (r - l) / 2;
 
-            removed = unordered_set<int>(removable.begin(), removable.begin() + mid + 1);
-            cout << l << " " << mid << " " << r << " " << checkSubSeq(s, p, removed) << endl;
-            if(checkSubSeq(s, p, removed)) {
-                l = mid + 1;
-            }
-            else {
-                r = mid - 1;
-            }
+            unordered_set<int> removed(removable.begin(), removable.begin() + mid + 1);
+            if(checkSubSeq(s, p, removed)) l = mid + 1;
+            else r = mid - 1;
         }
-        cout << l << " " << mid << " " << r << " " << checkSubSeq(s, p, removed) << endl;
 
         return l;
     }
