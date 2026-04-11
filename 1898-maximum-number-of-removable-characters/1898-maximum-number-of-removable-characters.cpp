@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool checkSubSeq(string s, string p, unordered_set<int>& skipped) {
+    bool checkSubSeq(string& s, string& p, unordered_set<int>& skipped) {
         int i = 0, j = 0;
         while (i < s.size() && j < p.size()) {
             if(skipped.count(i)) {
