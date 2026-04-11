@@ -10,7 +10,6 @@ public:
     string minimizeStringValue(string s) {
         unordered_map<char, int> freq;
         for(int i = 'a'; i <= 'z'; i++) freq[i] = 0;
-
         for(auto& x : s) freq[x]++;
 
         priority_queue<pair<char, int>, vector<pair<char, int>>, comp> pq;
@@ -35,7 +34,7 @@ public:
         int curr = 0;
         for(int i = 0; i < s.size(); i++){
             if(s[i] == '?') {
-                s[i] = filled[curr]; curr++;
+                s[i] = filled[curr++];
             }
         }
         return s;
