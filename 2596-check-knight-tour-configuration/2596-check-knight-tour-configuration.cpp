@@ -22,7 +22,6 @@ public:
 
             if(!flag) return false;
         }
-        cout << next << " " << currX << " " << currY << endl;
         
         return true;
     }
