@@ -2,21 +2,14 @@ class Solution {
 public:
     int longestContinuousSubstring(string s) {
 
-        int l = 0, r = 0, curr = 'a', ans = INT_MIN;
+        int l = 0, r = 1, ans = 1;
 
         while(r < s.size()) {
-            if(l == r) {
-                curr = s[r]; r++; continue;
-            }
-
-            if(s[r] == curr + 1) {
-                curr++;
-                r++;
-            }
-            else {
+            if(s[r] != s[r - 1] + 1) {
                 ans = max(ans, r - l);
                 l = r;
             }
+            r++;
         }
         return max(ans, r - l);
         
