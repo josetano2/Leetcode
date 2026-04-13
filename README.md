@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/josetano2/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/josetano2/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/josetano2/Leetcode/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
