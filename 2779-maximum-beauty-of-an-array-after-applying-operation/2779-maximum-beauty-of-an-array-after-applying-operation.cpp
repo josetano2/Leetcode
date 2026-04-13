@@ -1,7 +1,11 @@
 class Solution {
 public:
     int maximumBeauty(vector<int>& nums, int k) {
-        vector<int> diff(200002, 0);
+
+        int  maxNum = INT_MIN;
+        for(auto& x : nums) maxNum = max(maxNum, x);
+        vector<int> diff(maxNum + k + 2, 0);
+        
         for(auto &x : nums) {
             int start = x - k, end = x + k;
             if(start < 0) start = 0;
