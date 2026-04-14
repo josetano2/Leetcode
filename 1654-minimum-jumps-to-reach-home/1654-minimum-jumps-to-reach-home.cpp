@@ -4,7 +4,7 @@ public:
         unordered_set<int> s(forbidden.begin(), forbidden.end());
         unordered_set<int> visited;
 
-        int ans = 0, limit = 100000;
+        int ans = 0, limit = 6000;
 
         // true = forward, false = backward
         queue<pair<int, bool>> q; q.push({0, true});
