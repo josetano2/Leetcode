@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/josetano2/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/josetano2/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/josetano2/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/josetano2/Leetcode/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/josetano2/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0289-game-of-life](https://github.com/josetano2/Leetcode/tree/main/0289-game-of-life/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/josetano2/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/josetano2/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/josetano2/Leetcode/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/josetano2/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/josetano2/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
