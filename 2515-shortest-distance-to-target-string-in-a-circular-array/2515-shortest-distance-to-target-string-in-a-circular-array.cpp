@@ -12,7 +12,6 @@ public:
 
         for(int i = 0; i < freq[target].size(); i++) {
             int x = freq[target][i];
-            cout << startIndex << " " << freq[target][i] << " " << n << endl;
             ans = min({ans, abs(startIndex - x), abs(n - startIndex + x), abs(startIndex + n - x)});
         }
         return ans;
