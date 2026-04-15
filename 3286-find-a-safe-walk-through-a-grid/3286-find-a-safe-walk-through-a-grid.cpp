@@ -1,36 +1,39 @@
 class Solution {
 public:
-    vector<int> xArr = {1, -1, 0, 0};
-    vector<int> yArr = {0, 0, 1, -1};
-    vector<vector<vector<int>>> dp;
 
-    bool checker(int x, int y, int m, int n, vector<vector<bool>>& visited) {
-        if(x < 0 || y < 0 || x >= m || y >= n || visited[x][y]) return false;
+    vector<int> xArr = {-1, 1, 0, 0};
+    vector<int> yArr = {0, 0, -1, 1};
+    bool checker(int x, int y, int m, int n) {
+        if(x < 0 || y < 0 || x >= m || y >= n) return false;
         return true;
-    } 
-    bool dfs(int x, int y, int health, vector<vector<bool>>& visited, int& m, int& n, vector<vector<int>>& grid) {
-        if(grid[x][y] == 1) health--;
-        if(health == 0) return false;
-        if(x == m - 1 && y == n - 1) return true;
-
-        if(dp[x][y][health] != -1) return dp[x][y][health];
-
-        visited[x][y] = true;
-        for(int i = 0; i < 4; i++) {
-            int newX = x + xArr[i], newY = y + yArr[i];
-            if(checker(newX, newY, m, n, visited)) {
-                if(dfs(newX, newY, health, visited, m, n, grid)) return dp[x][y][health] = true;
-            }
-        }
-        visited[x][y] = false;
-
-        return dp[x][y][health] = false;
     }
+
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
         int m = grid.size(), n = grid[0].size();
-        dp = vector<vector<vector<int>>>(m, vector<vector<int>>(n, vector<int>(health + 1, -1)));
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
 
-        return dfs(0, 0, health, visited, m, n, grid);
+        vector<vector<int>> dist(m, vector<int>(n, INT_MAX));
+        dist[0][0] = grid[0][0];
+
+        deque<pair<int,int>> d;
+        d.push_front({0, 0}); 
+
+        while(!d.empty()) {
+            auto [x, y] = d.front();
+            d.pop_front();
+
+            for(int i = 0; i < 4; i++) {
+                int newX = x + xArr[i], newY = y + yArr[i];
+                if(checker(newX, newY, m, n)) {
+                    int newCost = dist[x][y] + grid[newX][newY];
+                    if(newCost < dist[newX][newY]) {
+                        dist[newX][newY] = newCost;
+                        if(dist[newX][newY] == 0) d.push_front({newX, newY});
+                        else d.push_back({newX, newY});
+                    }
+                }
+            }
+
+        }
+        return dist[m - 1][n - 1] < health ? true : false; 
     }
 };
