@@ -6,10 +6,7 @@ public:
             biggest = max(flips[i], biggest);
 
             if(flips[i] == 1) flag = true;
-            if(flag && (flips[i] == i + 1 && biggest == flips[i]) || (biggest == i + 1)) {
-                cout << flips[i] << " " << i + 1 << " " << biggest << endl;
-                ans++;
-            }
+            if(flag && (flips[i] == i + 1 && biggest == flips[i]) || (biggest == i + 1)) ans++;
         }
 
         return ans;
