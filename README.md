@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3208-alternating-groups-ii](https://github.com/josetano2/Leetcode/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/josetano2/Leetcode/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/josetano2/Leetcode/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/josetano2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/josetano2/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Prefix Sum
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/josetano2/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/josetano2/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +130,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/josetano2/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
