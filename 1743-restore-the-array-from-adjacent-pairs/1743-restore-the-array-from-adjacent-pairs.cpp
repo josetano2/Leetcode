@@ -3,32 +3,33 @@ public:
     vector<int> restoreArray(vector<vector<int>>& adjacentPairs) {
         unordered_map<int, vector<int>> graph;
 
-        for(auto& x : adjacentPairs) {
-            int a1 = x[0], a2 = x[1];
-            graph[a1].push_back(a2);
-            graph[a2].push_back(a1);
+        for (auto& pair : adjacentPairs) {
+            int u = pair[0], v = pair[1];
+            graph[u].push_back(v);
+            graph[v].push_back(u);
         }
 
-        int startPos = 0, prev = 0;
-        vector<int> ans;
-        for(auto& [x, y] : graph) {
-            if(y.size() == 1) {
-                startPos = y[0];
-                prev = x;
-                ans.push_back(x);
+        int curr = 0, prev = -1;
+        vector<int> result;
+
+        for (auto& [node, neighbors] : graph) {
+            if (neighbors.size() == 1) {
+                prev = node;
+                curr = neighbors[0];
+                result.push_back(node);
                 break;
             }
         }
 
-        while(graph[startPos].size() != 1) {
-            auto y = graph[startPos];
-            int nextStep = y[0] == prev ? y[1] : y[0];
-            ans.push_back(startPos);
-            prev = startPos;
-            startPos = nextStep;
+        while (graph[curr].size() != 1) {
+            auto& neighbors = graph[curr];
+            int next = neighbors[0] == prev ? neighbors[1] : neighbors[0];
+            result.push_back(curr);
+            prev = curr;
+            curr = next;
         }
 
-        ans.push_back(startPos);
-        return ans;
+        result.push_back(curr);
+        return result;
     }
 };
