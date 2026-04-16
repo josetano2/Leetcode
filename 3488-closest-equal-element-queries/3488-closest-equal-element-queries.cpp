@@ -15,14 +15,7 @@ public:
             int pos = it - curr.begin(), minDist = INT_MAX;
 
             if(pos - 1 >= 0) minDist = calculateMinDist(minDist, q, curr[pos - 1], n);
-            
-            if(pos < curr.size() && curr[pos] == q) {
-                if(pos + 1 < curr.size()) minDist = calculateMinDist(minDist, q, curr[pos + 1], n);
-            } 
-            else if(pos < curr.size()) {
-                minDist = calculateMinDist(minDist, q, curr[pos], n);
-            }
-
+            if(pos + 1 < curr.size()) minDist = calculateMinDist(minDist, q, curr[pos + 1], n);
             if(curr[0] != q) minDist = calculateMinDist(minDist, q, curr[0], n);
             if(curr[curr.size() - 1] != q) minDist = calculateMinDist(minDist, q, curr[curr.size() - 1], n);
 
