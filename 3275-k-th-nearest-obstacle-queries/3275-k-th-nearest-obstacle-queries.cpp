@@ -5,7 +5,6 @@ public:
         priority_queue<int> pq;
         for(int i = 0; i < queries.size(); i++) {
             int dist = abs(queries[i][0]) + abs(queries[i][1]);
-            cout << i << " " << k << endl;
 
             if(pq.size() < k) {
                 pq.push(dist);
