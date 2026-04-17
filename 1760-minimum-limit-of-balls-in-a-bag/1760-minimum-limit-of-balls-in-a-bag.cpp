@@ -10,7 +10,6 @@ public:
 
             bool flag = true;
             for(auto& x : nums) {
-
                 curr += ((x + mid - 1) / mid) - 1;
                 if(curr > maxOperations) {
                     flag = false; break;
