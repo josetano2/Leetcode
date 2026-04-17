@@ -19,44 +19,26 @@ public:
         while(k > 0) {
             if(!pqL.empty() && !pqR.empty()) {
                 auto topL = pqL.top(), topR = pqR.top();
-                if(topL.first < topR.first) {
+                if(topL < topR) {
                     ans += topL.first;
                     pqL.pop();
 
                     l++;
                     if(l < r) pqL.push({costs[l], l});
                 }
-                else if(topL.first > topR.first) {
+                else {
                     ans += topR.first;
                     pqR.pop();
                     
                     r--;
                     if(l < r) pqR.push({costs[r], r});
                 }
-                else {
-                    if(topL.second < topR.second) {
-                        ans += topL.first;
-                        pqL.pop();
-
-                        l++;
-                        if(l < r) pqL.push({costs[l], l});
-                    }
-                    else {
-                        ans += topR.first;
-                        pqR.pop();
-                        
-                        r--;
-                        if(l < r) pqR.push({costs[r], r});
-                    }
-                }
             }
-
             else {
                 auto topL = pqL.top();
                 ans += topL.first;
                 pqL.pop();
             }
-
             if(r - l <= 1) {
                 while(!pqR.empty()) {
                     auto topR = pqR.top();
@@ -64,7 +46,6 @@ public:
                     pqL.push(topR);
                 }
             }
-
             k--;
         }
 
