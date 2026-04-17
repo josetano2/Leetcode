@@ -16,7 +16,7 @@ public:
         l--;
 
         long long ans = 0;
-        while(k > 0) {
+        while(k--) {
             if(!pqL.empty() && !pqR.empty()) {
                 auto topL = pqL.top(), topR = pqR.top();
                 if(topL < topR) {
@@ -46,7 +46,6 @@ public:
                     pqL.push(topR);
                 }
             }
-            k--;
         }
 
         return ans;
