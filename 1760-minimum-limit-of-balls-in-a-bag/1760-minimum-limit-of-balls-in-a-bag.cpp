@@ -10,9 +10,8 @@ public:
 
             bool flag = true;
             for(auto& x : nums) {
-                if(x <= mid) continue;
 
-                curr = curr + (ceil((double) x / mid) - 1);
+                curr += ((x + mid - 1) / mid) - 1;
                 if(curr > maxOperations) {
                     flag = false; break;
                 }
