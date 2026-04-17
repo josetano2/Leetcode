@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/josetano2/Leetcode/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/josetano2/Leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/josetano2/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/josetano2/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
