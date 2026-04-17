@@ -7,9 +7,9 @@ public:
             pq.push({costs[i], i});
             l++;
         }
-        for(int i = costs.size() - 1; i > r - candidates; i--) {
+        for(int i = 0; i < candidates; i++) {
             if(l > r) break;
-            pq.push({costs[i], i});
+            pq.push({costs[r], r});
             r--;
         }
 
