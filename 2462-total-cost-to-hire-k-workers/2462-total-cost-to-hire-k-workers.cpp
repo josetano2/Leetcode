@@ -1,50 +1,29 @@
 class Solution {
 public:
     long long totalCost(vector<int>& costs, int k, int candidates) {
-        priority_queue<pair<long long,int>, vector<pair<long long,int>>, greater<pair<long long,int>>> pqL, pqR;
-        int l = 0, r = costs.size();
-        for(int i = 0; i < candidates; i++){
-            pqL.push({costs[i], i});
+        priority_queue<pair<long long,int>, vector<pair<long long,int>>, greater<pair<long long,int>>> pq;
+        int l = 0, r = costs.size() - 1;
+        for(int i = 0; i < candidates; i++) {
+            pq.push({costs[i], i});
             l++;
         }
-
-        for(int i = costs.size() - 1; i >= costs.size() - candidates; i--) {
-            if(l >= r) break;
-            pqR.push({costs[i], i});
+        for(int i = costs.size() - 1; i > r - candidates; i--) {
+            if(l > r) break;
+            pq.push({costs[i], i});
             r--;
         }
-        l--;
 
         long long ans = 0;
         while(k--) {
-            if(!pqL.empty() && !pqR.empty()) {
-                auto topL = pqL.top(), topR = pqR.top();
-                if(topL < topR) {
-                    ans += topL.first;
-                    pqL.pop();
+            auto [cost, i] = pq.top();
+            pq.pop();
 
-                    l++;
-                    if(l < r) pqL.push({costs[l], l});
-                }
-                else {
-                    ans += topR.first;
-                    pqR.pop();
-                    
-                    r--;
-                    if(l < r) pqR.push({costs[r], r});
-                }
+            ans += cost;
+            if(i < l && l <= r) {
+                pq.push({costs[l], l}); l++;
             }
-            else {
-                auto topL = pqL.top();
-                ans += topL.first;
-                pqL.pop();
-            }
-            if(r - l <= 1) {
-                while(!pqR.empty()) {
-                    auto topR = pqR.top();
-                    pqR.pop();
-                    pqL.push(topR);
-                }
+            else if(i > r && l <= r) {
+                pq.push({costs[r], r}); r--;
             }
         }
 
