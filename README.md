@@ -178,4 +178,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/josetano2/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/josetano2/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/josetano2/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 <!---LeetCode Topics End-->
