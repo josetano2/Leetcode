@@ -23,11 +23,6 @@ public:
 
             if(k <= 0) return ans;
         }
-
-        if(k > 0) {
-            long long res = arit(nums[nums.size() - 1] + k), t = arit(nums[nums.size() - 1]);
-            ans += (res - t);
-        }
-        return ans;
+        return ans + (arit(nums[nums.size() - 1] + k) - arit(nums[nums.size() - 1])) ;
     }
 };
