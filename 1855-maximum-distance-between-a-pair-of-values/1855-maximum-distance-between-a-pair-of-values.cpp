@@ -7,7 +7,7 @@ public:
             while(l <= r) {
                 mid = l + (r - l) / 2;
                 if(curr <= nums2[mid]) l = mid + 1;
-                else r = mid - 1
+                else r = mid - 1;
             }
             if(i <= r) ans = max(ans, r - i);
         }
