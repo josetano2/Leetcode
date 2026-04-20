@@ -1,39 +1,24 @@
 class Solution {
 public:
-    // 1 2 5
-    // 0 -> 0
-    // 1 -> 1
-    // 2 ->
 
-    vector<int> cache;
+    int cc(vector<int>& dp, vector<int>& coins, int curr) {
+        if(curr == 0) return 0;
+        if(curr < 0) return INT_MAX - 1;
 
-    int dp(vector<int>& coins, int idx) {
-        if (idx < 0) {
-            return INT_MAX;
+        if(dp[curr] != INT_MAX - 1) return dp[curr];
+
+        int next = INT_MAX - 1;
+        for(int i = 0; i < coins.size(); i++) {
+            int temp = cc(dp, coins, curr - coins[i]);
+            next = min(temp, next);
         }
 
-        if (idx == 0) {
-            return 0;
-        }
-
-        if (cache[idx] != -1) {
-            return cache[idx];
-        }
-
-        int res = INT_MAX;
-        for (int i = 0; i < coins.size(); i++) {
-            int temp = dp(coins, idx - coins[i]);
-            if (temp != INT_MAX)
-                res = min(res, temp + 1);
-        }
-
-        cache[idx] = res;
-        return cache[idx];
-    }
+        return dp[curr] = next + 1;
+    } 
 
     int coinChange(vector<int>& coins, int amount) {
-        cache = vector<int>(amount + 1, -1);
-        int ans = dp(coins, amount);
+        vector<int> dp(amount + 1, INT_MAX - 1);
+        int ans = cc(dp, coins, amount);
         return ans == INT_MAX ? -1 : ans;
     }
 };
