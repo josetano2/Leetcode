@@ -5,9 +5,9 @@ public:
         sort(tokens.begin(), tokens.end());
         if(tokens[0] > power) return 0;
 
-        int l = 0, r = tokens.size() - 1, ans = INT_MIN, c = 0, o = power;
+        int l = 0, r = tokens.size() - 1, ans = INT_MIN, c = 0;
         while(l <= r) {
-            if(power >= to<<kens[l]) {
+            if(power >= tokens[l]) {
                 c++;
                 power -= tokens[l];
                 l++;
