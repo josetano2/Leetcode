@@ -7,8 +7,7 @@ public:
 
         int l = 0, r = tokens.size() - 1, ans = INT_MIN, c = 0, o = power;
         while(l <= r) {
-            cout << ans << " " << c << endl;
-            if(power >= tokens[l]) {
+            if(power >= to<<kens[l]) {
                 c++;
                 power -= tokens[l];
                 l++;
@@ -20,8 +19,6 @@ public:
                 r--;
             }
         }
-
-        cout << ans << " " << c << endl;
         return max(c, ans);
     }   
 };
