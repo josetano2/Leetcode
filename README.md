@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/josetano2/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0289-game-of-life](https://github.com/josetano2/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/josetano2/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/josetano2/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/josetano2/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
