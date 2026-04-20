@@ -8,9 +8,7 @@ public:
 
         for(int i = 1; i <= amount; i++) {
             int s = amount + 1;
-            for(auto& c : coins) {
-                if(i - c >= 0) s = min(s, dp[i - c]);
-            }
+            for(auto& c : coins) if(i - c >= 0) s = min(s, dp[i - c]);
             if(s != amount + 1) dp[i] = s + 1;
         }
         return dp[amount] == amount + 1 ? -1 : dp[amount];
