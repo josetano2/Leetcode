@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/josetano2/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/josetano2/Leetcode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/josetano2/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/josetano2/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/josetano2/Leetcode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/josetano2/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
