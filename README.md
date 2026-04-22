@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/josetano2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/josetano2/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/josetano2/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/josetano2/Leetcode/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/josetano2/Leetcode/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/josetano2/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/josetano2/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/josetano2/Leetcode/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/josetano2/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/josetano2/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/josetano2/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Brainteaser
