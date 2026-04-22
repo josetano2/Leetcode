@@ -30,14 +30,10 @@ public:
                 r++;
             } 
         }
-
-        cout << currNeg << " " << currPos << " " << endl;
         
         if(currPos + currNeg != target) return vector<int>(0);
          
-        for(int i = 1; i <= n; i++) {
-            if(us.find(i * -1) == us.end()) ans.push_back(i);
-        }
+        for(int i = 1; i <= n; i++) if(us.find(i * -1) == us.end()) ans.push_back(i);
         
         return ans;
     }
