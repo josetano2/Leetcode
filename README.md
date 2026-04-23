@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2462-total-cost-to-hire-k-workers](https://github.com/josetano2/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/josetano2/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/josetano2/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2615-sum-of-distances](https://github.com/josetano2/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/josetano2/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/josetano2/Leetcode/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/josetano2/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2615-sum-of-distances](https://github.com/josetano2/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/josetano2/Leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
+| [2615-sum-of-distances](https://github.com/josetano2/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
