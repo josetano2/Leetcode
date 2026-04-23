@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0754-reach-a-number](https://github.com/josetano2/Leetcode/tree/main/0754-reach-a-number/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/josetano2/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0754-reach-a-number](https://github.com/josetano2/Leetcode/tree/main/0754-reach-a-number/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
