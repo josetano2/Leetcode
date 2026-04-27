@@ -11,12 +11,12 @@ public:
         return true;
     }
     void dfs(int x, int y, int parentX, int parentY, char curr, vector<vector<char>>& grid, vector<vector<bool>>& visited) {
+        if(ans) return;
         visited[x][y] = true;
         for(int i = 0; i < 4; i++) {
             int newX = x + xArr[i], newY = y + yArr[i];
             if(isValid(newX, newY, curr, grid)) {
                 if(visited[newX][newY] && !(newX == parentX && newY == parentY)) ans = true;
-                
                 if(!visited[newX][newY]) dfs(newX, newY, x, y, curr, grid, visited);
             }
         }
@@ -31,6 +31,7 @@ public:
                 if(!visited[i][j]) {
                     dfs(i, j, i, j, grid[i][j], grid, visited);
                 }
+                if(ans) return true;
             }
         }
 
