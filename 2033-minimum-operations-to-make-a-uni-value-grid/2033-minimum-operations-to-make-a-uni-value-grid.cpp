@@ -15,7 +15,6 @@ public:
 
         sort(nums.begin(), nums.end());
         int target = (nums.size() - 1) / 2, ans = 0;
-        cout << target << endl;
         for(int i = 0; i < nums.size(); i++) {
             int diff = (abs(nums[target] - nums[i])) / x;
             ans += diff;
