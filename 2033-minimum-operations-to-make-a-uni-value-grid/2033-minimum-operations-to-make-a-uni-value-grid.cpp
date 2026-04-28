@@ -4,16 +4,14 @@ public:
 
         int m = grid.size(), n = grid[0].size();
 
-        unordered_map<int, int> um;
         vector<int> nums;
+        int rem = grid[0][0] % x;
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
-                um[grid[i][j] % x]++;
+                if(grid[i][j] % x != rem) return -1;
                 nums.push_back(grid[i][j]);
             }
         }
-        
-        if(um.size() > 1) return -1;
 
         sort(nums.begin(), nums.end());
         int target = (nums.size() - 1) / 2, ans = 0;
