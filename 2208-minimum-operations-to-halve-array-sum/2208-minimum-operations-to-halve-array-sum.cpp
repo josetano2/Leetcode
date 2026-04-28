@@ -7,7 +7,6 @@ public:
             pq.push(x);
             tot += x;
         }
-        priority_queue<double> temp = pq;
 
         double half = tot / 2.0, curr = 0, count = 0;
         while(!pq.empty() && curr < half) {
