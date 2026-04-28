@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/josetano2/Leetcode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/josetano2/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/josetano2/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/josetano2/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/josetano2/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/josetano2/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/josetano2/Leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/josetano2/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Two Pointers
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/josetano2/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0754-reach-a-number](https://github.com/josetano2/Leetcode/tree/main/0754-reach-a-number/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/josetano2/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
