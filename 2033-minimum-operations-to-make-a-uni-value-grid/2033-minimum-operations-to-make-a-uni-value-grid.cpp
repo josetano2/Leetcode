@@ -13,10 +13,6 @@ public:
             }
         }
         
-        for(auto& [x, y] : um) {
-            cout << x << " " << y << endl;
-        }
-
         if(um.size() > 1) return -1;
 
         sort(nums.begin(), nums.end());
