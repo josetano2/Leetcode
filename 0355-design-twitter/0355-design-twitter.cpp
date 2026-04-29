@@ -24,7 +24,7 @@ public:
         // fetch every post by every user that is followed and put it in a pq
         priority_queue<pair<int, int>> pq;
         for(int i = 0; i < followedUser.size(); i++) {
-            vector<pair<int, int>> post = posts[followedUser[i]];
+            vector<pair<int, int>>& post = posts[followedUser[i]];
 
             for(int j = 0; j < post.size(); j++) {
                 pq.push(post[j]);
