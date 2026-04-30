@@ -15,8 +15,7 @@ public:
         if (down != INT_MIN) best = max(best, down + grid[x][y]);
         if (right != INT_MIN) best = max(best, right + grid[x][y]);
 
-        dp[x][y][c] = best;
-        return dp[x][y][c];
+        return dp[x][y][c] = best;
     }
 
     int maxPathScore(vector<vector<int>>& grid, int k) {
