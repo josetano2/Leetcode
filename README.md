@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/josetano2/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/josetano2/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0525-contiguous-array](https://github.com/josetano2/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0754-reach-a-number](https://github.com/josetano2/Leetcode/tree/main/0754-reach-a-number/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
