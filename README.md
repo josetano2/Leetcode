@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/josetano2/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/josetano2/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0355-design-twitter](https://github.com/josetano2/Leetcode/tree/main/0355-design-twitter/) | Medium |
 ## Design
 | Problem Name | Difficulty |
