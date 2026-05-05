@@ -21,7 +21,6 @@ public:
         int l = 0, r = nums.back() - nums.front(), mid = 0;
         while(l < r) {
             mid = l + (r - l) / 2;
-            cout << l << " " << mid << " " << r << endl;
 
             if(canForm(nums, p, mid)) {
                 r = mid;
