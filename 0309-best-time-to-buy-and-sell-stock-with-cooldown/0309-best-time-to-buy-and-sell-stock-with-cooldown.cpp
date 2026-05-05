@@ -22,6 +22,6 @@ public:
             cool[i] = hold[i - 1] + prices[i];
         }
 
-        return max({hold[n - 1], free[n - 1], cool[n - 1]});
+        return max(free[n - 1], cool[n - 1]);
     }
 };
