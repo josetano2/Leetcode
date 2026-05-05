@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/josetano2/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/josetano2/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/josetano2/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/josetano2/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/josetano2/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/josetano2/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Backtracking
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/josetano2/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/josetano2/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2615-sum-of-distances](https://github.com/josetano2/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/josetano2/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/josetano2/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/josetano2/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/josetano2/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/josetano2/Leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/josetano2/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2895-minimum-processing-time](https://github.com/josetano2/Leetcode/tree/main/2895-minimum-processing-time/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/josetano2/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/josetano2/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2895-minimum-processing-time](https://github.com/josetano2/Leetcode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
@@ -221,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/josetano2/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/josetano2/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/josetano2/Leetcode/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
