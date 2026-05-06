@@ -11,24 +11,21 @@ public:
         }
         
         for(int i = 0; i < m; i++) {
-            pair<int, int> e = {-1, -1};
+            int e = -1;
             for(int j = n - 1; j >= 0; j--) {
-                if(rev[j][i] == '.' && e.second == -1) {
-                    e = {i, j};
+                if(rev[j][i] == '.' && e == -1) {
+                    e = j;
                 }
-
                 if(rev[j][i] == '*') {
-                    e = {-1, -1};
+                    e = -1;
                 }
-
-                if(rev[j][i] == '#' && e.first != -1) {
-                    rev[e.second][e.first] = '#';
+                if(rev[j][i] == '#' && e != -1) {
+                    rev[e][i] = '#';
                     rev[j][i] = '.';
-                    e = {i, e.second - 1};
+                    e = e - 1;
                 }
             }
         }
-
         return rev;
     }
 };
