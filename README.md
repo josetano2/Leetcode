@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/josetano2/Leetcode/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/josetano2/Leetcode/tree/main/3275-k-th-nearest-obstacle-queries/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/josetano2/Leetcode/tree/main/3350-adjacent-increasing-subarrays-detection-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/josetano2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/josetano2/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/josetano2/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/josetano2/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/josetano2/Leetcode/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/josetano2/Leetcode/tree/main/3350-adjacent-increasing-subarrays-detection-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
