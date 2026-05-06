@@ -3,9 +3,7 @@ public:
     int maxIncreasingSubarrays(vector<int>& nums) {
 
         int prevL = 0, l = 0, ans = 1, n = nums.size(), count = 0;
-        bool flag = false;
         for(int i = 1; i < n; i++) {
-            // cout << prevL << " " << l << " " << endl;
             if(nums[i] <= nums[i - 1]) {
                 if(count >= 1) {
                     ans = max({ans, min(l - prevL, i - l), (l - prevL) / 2});
