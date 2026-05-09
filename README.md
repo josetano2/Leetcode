@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/josetano2/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/josetano2/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/josetano2/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/josetano2/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/josetano2/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/josetano2/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/josetano2/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
