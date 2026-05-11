@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3742-maximum-path-score-in-a-grid](https://github.com/josetano2/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/josetano2/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/josetano2/Leetcode/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/josetano2/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/josetano2/Leetcode/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/josetano2/Leetcode/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/josetano2/Leetcode/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/josetano2/Leetcode/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/josetano2/Leetcode/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/josetano2/Leetcode/tree/main/3275-k-th-nearest-obstacle-queries/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/josetano2/Leetcode/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
