@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/josetano2/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/josetano2/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/josetano2/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/josetano2/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/josetano2/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/josetano2/Leetcode/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Dynamic Programming
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/josetano2/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/josetano2/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/josetano2/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/josetano2/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/josetano2/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2615-sum-of-distances](https://github.com/josetano2/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/josetano2/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
