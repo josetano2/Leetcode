@@ -47,7 +47,6 @@ public:
 
         if(xWon && oWon) return false;
         if(xWon) {
-            cout << x << " " << o << endl;;
             if(x == o + 1) return true;
             else return false;
         }
