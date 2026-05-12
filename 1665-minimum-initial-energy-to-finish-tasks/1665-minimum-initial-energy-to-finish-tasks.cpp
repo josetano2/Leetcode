@@ -15,21 +15,14 @@ public:
             bool isValid = true;
             int temp = mid;
             for(auto& t : tasks) {
-                if(temp >= t[1]) {
-                    temp -= t[0];
-                }
+                if(temp >= t[1]) temp -= t[0];
                 else {
-                    isValid = false;
-                    break;
+                    isValid = false; break;
                 }
             }
 
-            if(isValid) {
-                max = mid;
-            }
-            else {
-                min = mid + 1;
-            }
+            if(isValid) max = mid;
+            else min = mid + 1;
         }
         return min;
     }
