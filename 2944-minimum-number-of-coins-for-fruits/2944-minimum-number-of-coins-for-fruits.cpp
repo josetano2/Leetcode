@@ -18,8 +18,6 @@ public:
 
     int minimumCoins(vector<int>& prices) {
         vector<vector<int>> cache(prices.size(), vector<int>(prices.size() * 2, INT_MAX));
-        
-        int ans = dp(0, -1, cache, prices);
-        return ans;
+        return dp(0, -1, cache, prices);
     }
 };
