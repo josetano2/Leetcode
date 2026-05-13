@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/josetano2/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/josetano2/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/josetano2/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/josetano2/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/josetano2/Leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/josetano2/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/josetano2/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/josetano2/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/josetano2/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/josetano2/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/josetano2/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/josetano2/Leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/josetano2/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/josetano2/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
