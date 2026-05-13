@@ -7,9 +7,7 @@ public:
         if(cache[idx][free] != INT_MAX) return cache[idx][free];
 
         int freeFruit = -1, paidFruit = -1;
-        if(idx <= free) {
-            freeFruit = dp(idx + 1, free, cache, prices);
-        }
+        if(idx <= free) freeFruit = dp(idx + 1, free, cache, prices);
         paidFruit = dp(idx + 1, 2 * idx + 1, cache, prices) + prices[idx];
 
         if(freeFruit == -1) cache[idx][free] = paidFruit;
