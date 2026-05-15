@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/josetano2/Leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/josetano2/Leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1818-minimum-absolute-sum-difference](https://github.com/josetano2/Leetcode/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/josetano2/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/josetano2/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1818-minimum-absolute-sum-difference](https://github.com/josetano2/Leetcode/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0754-reach-a-number](https://github.com/josetano2/Leetcode/tree/main/0754-reach-a-number/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
+| [1818-minimum-absolute-sum-difference](https://github.com/josetano2/Leetcode/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/josetano2/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/josetano2/Leetcode/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/josetano2/Leetcode/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
