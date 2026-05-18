@@ -1,22 +1,20 @@
 class Solution {
 public:
     long long maxAlternatingSum(vector<int>& nums) {
-        multiset<int> ms;
-        for(auto& x : nums) ms.insert(abs(x));
-
+        for(int i = 0; i < nums.size(); i++) nums[i] = abs(nums[i]);
+        sort(nums.begin(), nums.end());
+        
+        int l = 0, r = nums.size() - 1;
         long long ans = 0;
-        while(!ms.empty()) {
-            if(!ms.empty()) {
-                ans += pow(*ms.rbegin(), 2);
-                ms.erase(prev(ms.end()));
-            }
+        while(l <= r) {
+            ans += pow(nums[r], 2);
+            r--;
 
-            if(!ms.empty()) {
-                ans -= pow(*ms.begin(), 2);
-                ms.erase(ms.begin());
+            if(l <= r) {
+                ans -= pow(nums[l], 2);
+                l++;
             }
         }
-
         return ans;
     }
 };
