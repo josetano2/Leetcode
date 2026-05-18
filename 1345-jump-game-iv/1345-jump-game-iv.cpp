@@ -4,19 +4,19 @@ public:
         if(arr.size() == 1) return 0;
 
         unordered_map<int, queue<int>> um;
-        queue<pair<int, int>> q;
+        queue<int> q;
         vector<int> visited(arr.size(), false);
 
         for(int i = 0; i < arr.size(); i++) if(i != 0) um[arr[i]].push(i);
 
-        q.push({0, arr[0]});
+        q.push(0);
         visited[0] = true;
 
         int level = 0;
         while(!q.empty()) {
             int s = q.size();
             for(int i = 0; i < s; i++) {
-                auto [idx, val] = q.front();
+                auto idx = q.front();
                 q.pop();
                 
                 if(idx == arr.size() - 1) return level;
@@ -31,7 +31,7 @@ public:
                             if(f == arr.size() - 1) return level + 1;
 
                             visited[f] = true;
-                            q.push({f, arr[f]});
+                            q.push(f);
                         }
                     }
 
@@ -40,18 +40,16 @@ public:
 
                 if(idx + 1 < arr.size() && !visited[idx + 1]) {
                     visited[idx + 1] = true;
-                    q.push({idx + 1, arr[idx + 1]});
+                    q.push(idx + 1);
                 }
 
                 if(idx - 1 >= 0 && !visited[idx - 1]) {
                     visited[idx - 1] = true;
-                    q.push({idx - 1, arr[idx - 1]});
+                    q.push(idx - 1);
                 }
             }
             level++;
         }
-
-
         return level;
     }
 };
