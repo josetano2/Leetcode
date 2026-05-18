@@ -1,55 +1,18 @@
 class Solution {
 public:
-
-    // Without Division
     vector<int> productExceptSelf(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> p(n), s(n);
 
-        vector<int> ans(nums.size(), 1);
-
-        int prefixSum = 1;
-        for(int i = 1; i < nums.size(); i++) {
-            prefixSum *= nums[i - 1];
-            ans[i] = prefixSum;
+        p[0] = 1;
+        s[n - 1] = 1;
+        for(int i = 1; i < n; i++) {
+            p[i] = p[i - 1] * nums[i - 1];
+            s[n - i - 1] = s[n - i] * nums[n - i];
         }
 
-        prefixSum = 1;
-        for(int i = nums.size() - 1; i > 0; i--) {
-            prefixSum *= nums[i];
-            ans[i - 1] *= prefixSum;
-        }
-
+        vector<int> ans;
+        for(int i = 0; i < n; i++) ans.push_back(p[i] * s[i]);
         return ans;
     }
-
-    // With Division
-    // vector<int> productExceptSelf(vector<int>& nums) {
-
-    //     int total = 1, zeroCounter = 0;
-
-    //     for (auto x : nums) {
-    //         if (x == 0) {
-    //             zeroCounter++;
-    //             continue;
-    //         }
-    //         total *= x;
-    //     }
-
-    //     vector<int> ans;
-    //     for (auto x : nums) {
-    //         if (x != 0) {
-    //             if (zeroCounter > 0) {
-    //                 ans.push_back(0);
-    //             } else {
-    //                 ans.push_back(total / x);
-    //             }
-    //         } else {
-    //             if (zeroCounter == 1) {
-    //                 ans.push_back(total);
-    //             } else {
-    //                 ans.push_back(0);
-    //             }
-    //         }
-    //     }
-    //     return ans;
-    // }
 };
