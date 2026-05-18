@@ -18,10 +18,10 @@ public:
             for(int i = 0; i < s; i++) {
                 auto [idx, val] = q.front();
                 q.pop();
-
+                
                 if(idx == arr.size() - 1) return level;
 
-                if(um.find(arr[idx]) != um.end() && um[arr[idx]].size() > 0) {
+                if(um.count(arr[idx])) {
                     queue<int>& qt = um[arr[idx]];
                     while(!qt.empty()) {
                         int f = qt.front();
@@ -34,6 +34,8 @@ public:
                             q.push({f, arr[f]});
                         }
                     }
+
+                    um.erase(arr[idx]);
                 }
 
                 if(idx + 1 < arr.size() && !visited[idx + 1]) {
