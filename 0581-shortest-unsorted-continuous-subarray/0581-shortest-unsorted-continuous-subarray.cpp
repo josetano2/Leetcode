@@ -11,7 +11,7 @@ public:
             if(nums[l] == sorted[l]) l++;
             if(nums[r] == sorted[r]) r--;
 
-            if(nums[l] != sorted[l] && nums[r] != sorted[r]) break;
+            if(nums[l] != sorted[l] && nums[r] != sorted[r]) return r - l + 1;
         }
 
         return r - l + 1;
