@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/josetano2/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/josetano2/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/josetano2/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/josetano2/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/josetano2/Leetcode/tree/main/0796-rotate-string/) | Easy |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/josetano2/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/josetano2/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/josetano2/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0870-advantage-shuffle](https://github.com/josetano2/Leetcode/tree/main/0870-advantage-shuffle/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/josetano2/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0396-rotate-function](https://github.com/josetano2/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/josetano2/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0754-reach-a-number](https://github.com/josetano2/Leetcode/tree/main/0754-reach-a-number/) | Medium |
 | [0788-rotated-digits](https://github.com/josetano2/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
