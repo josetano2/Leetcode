@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/josetano2/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/josetano2/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0090-subsets-ii](https://github.com/josetano2/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/josetano2/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/josetano2/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/josetano2/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
