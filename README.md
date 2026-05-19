@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/josetano2/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/josetano2/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/josetano2/Leetcode/tree/main/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/josetano2/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/josetano2/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/josetano2/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/josetano2/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/josetano2/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/josetano2/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/josetano2/Leetcode/tree/main/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/josetano2/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/josetano2/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
