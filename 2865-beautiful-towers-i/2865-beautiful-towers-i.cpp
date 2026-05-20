@@ -5,23 +5,19 @@ public:
         long long ans = -1;
 
         for(int i = 0; i < n; i++) {
-            stack<int> stk;
             long long c = heights[i];
             vector<int> h = heights;
+
+            int lm = INT_MAX;
             for(int j = i - 1; j >= 0; j--) {
-                if(j == i - 1 && h[j] > heights[i]) h[j] = heights[i];
-
-                if(stk.empty() || (!stk.empty() && stk.top() > h[j])) stk.push(h[j]);
-                else if(!stk.empty() && stk.top() < h[j]) h[j] = stk.top();
-                c += h[j];
+                lm = min({heights[i], h[j], lm});
+                c += lm;
             }
-            stk = {};
+            
+            int rm = INT_MAX;
             for(int j = i + 1; j < n; j++) {
-                if(j == i + 1 && h[j] > heights[i]) h[j] = heights[i];
-
-                if(stk.empty() || (!stk.empty() && stk.top() > h[j])) stk.push(h[j]);
-                else if(!stk.empty() && stk.top() < h[j]) h[j] = stk.top();
-                c += h[j];
+                rm = min({heights[i], h[j], rm});
+                c += rm;
             }
             ans = max(c, ans);
         }
