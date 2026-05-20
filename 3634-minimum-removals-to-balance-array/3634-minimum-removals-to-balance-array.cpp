@@ -3,21 +3,11 @@ public:
     int minRemoval(vector<int>& nums, long long k) {
         sort(nums.begin(), nums.end());
 
-        int n = nums.size();
-        vector<int> v(n, -1);
-
+        int n = nums.size(), ans = INT_MAX;
         for(int i = 0; i < nums.size(); i++) {
-            long long toFind = nums[i] * k;
-            auto it = upper_bound(nums.begin(), nums.end(), toFind);
-
-            if(it != nums.begin()) {
-                --it;
-                v[i] = it - nums.begin();
-            }
+            int j = upper_bound(nums.begin(), nums.end(), (long long) nums[i] * k) - nums.begin() - 1;
+            ans = min(ans, n - (j - i) - 1);
         }
-
-        int ans = INT_MAX;
-        for(int i = 0; i < n; i++) ans = min(ans, n - (v[i] - i) - 1);
-        return ans == n ? 0 : ans;
+        return ans;
     }
 };
