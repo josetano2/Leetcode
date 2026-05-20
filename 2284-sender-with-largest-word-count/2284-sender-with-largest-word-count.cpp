@@ -1,16 +1,19 @@
 class Solution {
 public:
+
+    int countWords(string s) {
+        int count = 1;
+        for(int i = 0; i < s.size(); i++) {
+            if(s[i] == ' ') count++;
+        }
+        return count;
+    }
+
     string largestWordCount(vector<string>& messages, vector<string>& senders) {
         unordered_map<string, int> m;
 
         for(int i = 0; i < messages.size(); i++) {
-            stringstream ss(messages[i]);
-            string token;
-            vector<string> parts;
-            while (getline(ss, token, ' ')) parts.push_back(token);
-
-            int ms = parts.size();
-            m[senders[i]] += ms;
+            m[senders[i]] += countWords(messages[i]);
         }
         
         string ans = "";
