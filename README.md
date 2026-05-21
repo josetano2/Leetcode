@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2466-count-ways-to-build-good-strings](https://github.com/josetano2/Leetcode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/josetano2/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/josetano2/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/josetano2/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/josetano2/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Backtracking
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/josetano2/Leetcode/tree/main/2874-maximum-value-of-an-ordered-triplet-ii/) | Medium |
 | [2895-minimum-processing-time](https://github.com/josetano2/Leetcode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2906-construct-product-matrix](https://github.com/josetano2/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/josetano2/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/josetano2/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
