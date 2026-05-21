@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/josetano2/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/josetano2/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/josetano2/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 ## Simulation
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/josetano2/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/josetano2/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/josetano2/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3206-alternating-groups-i](https://github.com/josetano2/Leetcode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/josetano2/Leetcode/tree/main/3208-alternating-groups-ii/) | Medium |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/josetano2/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/josetano2/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/josetano2/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/josetano2/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/josetano2/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
