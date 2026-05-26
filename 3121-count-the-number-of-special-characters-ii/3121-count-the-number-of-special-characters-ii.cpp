@@ -9,19 +9,11 @@ public:
                 if(b[w - 'a']) s[w - 'a'] = false;
                 else s[w - 'a'] = true;
             }
-            else if(w >= 'A' && w <= 'Z'){ 
-                b[w - 'A'] = true;
-            }
+            else b[w - 'A'] = true;
         }
 
         int ans = 0;
-        for(int i = 0; i < 26; i++) {
-            if(s[i] && b[i]) {
-                cout << (char) i + 'a' << " " << endl;
-                ans++;
-            }
-        }
+        for(int i = 0; i < 26; i++) if(s[i] && b[i]) ans++;
         return ans;
-        
     }
 };
