@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/josetano2/Leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/josetano2/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/josetano2/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/josetano2/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/josetano2/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/josetano2/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/josetano2/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/josetano2/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/josetano2/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/josetano2/Leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/josetano2/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0289-game-of-life](https://github.com/josetano2/Leetcode/tree/main/0289-game-of-life/) | Medium |
+| [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/josetano2/Leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/josetano2/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/josetano2/Leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/josetano2/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/josetano2/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [1306-jump-game-iii](https://github.com/josetano2/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/josetano2/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/josetano2/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
