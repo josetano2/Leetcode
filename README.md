@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/josetano2/Leetcode/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/josetano2/Leetcode/tree/main/3275-k-th-nearest-obstacle-queries/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/josetano2/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/josetano2/Leetcode/tree/main/3350-adjacent-increasing-subarrays-detection-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/josetano2/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/josetano2/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/josetano2/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/josetano2/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/josetano2/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
