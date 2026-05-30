@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/josetano2/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/josetano2/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/josetano2/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0289-game-of-life](https://github.com/josetano2/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/josetano2/Leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/josetano2/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/josetano2/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0355-design-twitter](https://github.com/josetano2/Leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0525-contiguous-array](https://github.com/josetano2/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/josetano2/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/josetano2/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/josetano2/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/josetano2/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/josetano2/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0268-missing-number](https://github.com/josetano2/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0754-reach-a-number](https://github.com/josetano2/Leetcode/tree/main/0754-reach-a-number/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
@@ -368,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/josetano2/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0268-missing-number](https://github.com/josetano2/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/josetano2/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/josetano2/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Depth-First Search
@@ -406,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/josetano2/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/josetano2/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/josetano2/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0396-rotate-function](https://github.com/josetano2/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
