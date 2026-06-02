@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/josetano2/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/josetano2/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/josetano2/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/josetano2/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3708-longest-fibonacci-subarray](https://github.com/josetano2/Leetcode/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/josetano2/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/josetano2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2462-total-cost-to-hire-k-workers](https://github.com/josetano2/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2540-minimum-common-value](https://github.com/josetano2/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/josetano2/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/josetano2/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/josetano2/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/josetano2/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/josetano2/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/josetano2/Leetcode/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/josetano2/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/josetano2/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/josetano2/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/josetano2/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/josetano2/Leetcode/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
@@ -366,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/josetano2/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/josetano2/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/josetano2/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
