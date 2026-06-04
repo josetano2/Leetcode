@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/josetano2/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/josetano2/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/josetano2/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/josetano2/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1871-jump-game-vii](https://github.com/josetano2/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/josetano2/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/josetano2/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/josetano2/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/josetano2/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1306-jump-game-iii](https://github.com/josetano2/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/josetano2/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/josetano2/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/josetano2/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/josetano2/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1345-jump-game-iv](https://github.com/josetano2/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
