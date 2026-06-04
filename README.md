@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/josetano2/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/josetano2/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/josetano2/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/josetano2/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/josetano2/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/josetano2/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/josetano2/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/josetano2/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
