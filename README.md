@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/josetano2/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/josetano2/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/josetano2/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/josetano2/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/josetano2/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/josetano2/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/josetano2/Leetcode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/josetano2/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/josetano2/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/josetano2/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/josetano2/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/josetano2/Leetcode/tree/main/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/josetano2/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/josetano2/Leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/josetano2/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/josetano2/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/josetano2/Leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1861-rotating-the-box](https://github.com/josetano2/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
