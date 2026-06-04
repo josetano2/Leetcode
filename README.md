@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/josetano2/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0064-minimum-path-sum](https://github.com/josetano2/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/josetano2/Leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/josetano2/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/josetano2/Leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/josetano2/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/josetano2/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/josetano2/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0064-minimum-path-sum](https://github.com/josetano2/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/josetano2/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/josetano2/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/josetano2/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/josetano2/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0064-minimum-path-sum](https://github.com/josetano2/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0289-game-of-life](https://github.com/josetano2/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/josetano2/Leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
