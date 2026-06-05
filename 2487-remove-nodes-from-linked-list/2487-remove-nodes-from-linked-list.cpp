@@ -1,8 +1,6 @@
 class Solution {
 public:
     ListNode* removeNodes(ListNode* head) {
-        if(head == nullptr) return nullptr;
-
         stack<int> stk;
         ListNode* curr = head;
         while(curr != nullptr) {
