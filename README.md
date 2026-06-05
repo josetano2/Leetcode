@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/josetano2/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0355-design-twitter](https://github.com/josetano2/Leetcode/tree/main/0355-design-twitter/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/josetano2/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/josetano2/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/josetano2/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/josetano2/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/josetano2/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2865-beautiful-towers-i](https://github.com/josetano2/Leetcode/tree/main/2865-beautiful-towers-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/josetano2/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/josetano2/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/josetano2/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2865-beautiful-towers-i](https://github.com/josetano2/Leetcode/tree/main/2865-beautiful-towers-i/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -548,4 +551,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/josetano2/Leetcode/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/josetano2/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/josetano2/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
