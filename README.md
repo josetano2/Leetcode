@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/josetano2/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/josetano2/Leetcode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/josetano2/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/josetano2/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/josetano2/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/josetano2/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/josetano2/Leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/josetano2/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/josetano2/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/josetano2/Leetcode/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/josetano2/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/josetano2/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/josetano2/Leetcode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/josetano2/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/josetano2/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/josetano2/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/josetano2/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -341,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/josetano2/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1818-minimum-absolute-sum-difference](https://github.com/josetano2/Leetcode/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/josetano2/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/josetano2/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/josetano2/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
