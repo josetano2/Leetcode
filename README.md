@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/josetano2/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/josetano2/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/josetano2/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/josetano2/Leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2256-minimum-average-difference](https://github.com/josetano2/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/josetano2/Leetcode/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/josetano2/Leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/josetano2/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/josetano2/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/josetano2/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/josetano2/Leetcode/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/josetano2/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2540-minimum-common-value](https://github.com/josetano2/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -564,4 +566,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/josetano2/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/josetano2/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/josetano2/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
