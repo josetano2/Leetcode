@@ -11,7 +11,6 @@ public:
                 sum += nums[i];
 
                 // check total distinct
-                cout << freq.size() << " ";
                 if(freq.size() >= m) ans = max(sum, ans);
             
                 freq[nums[i - k + 1]]--;
