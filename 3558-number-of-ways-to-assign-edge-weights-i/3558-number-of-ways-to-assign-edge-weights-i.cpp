@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long assignEdgeWeights(vector<vector<int>>& edges) {
+    int assignEdgeWeights(vector<vector<int>>& edges) {
         unordered_set<int> us;
         unordered_map<int, vector<int>> um;
         long long MOD = 1e09 + 7;
