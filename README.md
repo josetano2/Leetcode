@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/josetano2/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/josetano2/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/josetano2/Leetcode/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3206-alternating-groups-i](https://github.com/josetano2/Leetcode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/josetano2/Leetcode/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/josetano2/Leetcode/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/josetano2/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/josetano2/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/josetano2/Leetcode/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/josetano2/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/josetano2/Leetcode/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/josetano2/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/josetano2/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/josetano2/Leetcode/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/josetano2/Leetcode/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/josetano2/Leetcode/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
