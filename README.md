@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/josetano2/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/josetano2/Leetcode/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/josetano2/Leetcode/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/josetano2/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/josetano2/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/josetano2/Leetcode/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
