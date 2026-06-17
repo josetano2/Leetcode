@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/josetano2/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/josetano2/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/josetano2/Leetcode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/josetano2/Leetcode/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/josetano2/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/josetano2/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/josetano2/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/josetano2/Leetcode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/josetano2/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/josetano2/Leetcode/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/josetano2/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/josetano2/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/josetano2/Leetcode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/josetano2/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/josetano2/Leetcode/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
