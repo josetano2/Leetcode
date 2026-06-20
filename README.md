@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/josetano2/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/josetano2/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/josetano2/Leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/josetano2/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/josetano2/Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/josetano2/Leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/josetano2/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1654-minimum-jumps-to-reach-home](https://github.com/josetano2/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/josetano2/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/josetano2/Leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/josetano2/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/josetano2/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/josetano2/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/josetano2/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/josetano2/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/josetano2/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/josetano2/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/josetano2/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
