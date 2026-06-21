@@ -1,9 +1,13 @@
 function maxIceCream(costs: number[], coins: number): number {
-    costs.sort((a, b) => a - b);
-    let i = 0;
-    for (i = 0; i < costs.length; i++) {
-        if (coins - costs[i] < 0) break;
-        coins -= costs[i];
+    const freq = _.countBy(costs), mx = _.max(costs);
+    let i = 0, ans = 0;
+    for(i < _.min(costs); i <= mx && coins >= i;) {
+        if(freq[i] ?? 0 > 0) {
+            coins -= i;
+            freq[i]--;
+            ans++;
+        }
+        else i++;
     }
-    return i;
+    return ans;
 };
