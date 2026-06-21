@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/josetano2/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/josetano2/Leetcode/tree/main/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/josetano2/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/josetano2/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/josetano2/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/josetano2/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/josetano2/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/josetano2/Leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2256-minimum-average-difference](https://github.com/josetano2/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/josetano2/Leetcode/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/josetano2/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/josetano2/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3099-harshad-number](https://github.com/josetano2/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/josetano2/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -584,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/josetano2/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -604,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/josetano2/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
