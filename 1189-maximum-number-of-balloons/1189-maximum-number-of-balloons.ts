@@ -1,8 +1,4 @@
 function maxNumberOfBalloons(text: string): number {
-    let balloon: string[] = ['b', 'a', 'l', 'o', 'n'], freq = _.countBy(text), ans = Infinity;
-    for(const b of balloon) if(!freq[b] || (freq[b] && (b == 'l' || b == 'o') && freq[b] <= 1)) return 0;
-    freq['l'] = Math.floor(freq['l'] / 2);
-    freq['o'] = Math.floor(freq['o'] / 2);
-    for(const b of balloon) ans = Math.min(ans, freq[b]);
-    return ans;
+    let freq = _.countBy(text);
+    return Math.min(freq['b'] ?? 0, freq['a'] ?? 0, Math.floor((freq['l'] ?? 0) / 2), Math.floor((freq['o'] ?? 0) / 2) ?? 0, freq['n'] ?? 0);
 };
