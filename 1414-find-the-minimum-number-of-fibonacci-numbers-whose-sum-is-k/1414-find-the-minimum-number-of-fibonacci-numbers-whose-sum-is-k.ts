@@ -1,9 +1,7 @@
 function findMinFibonacciNumbers(k: number): number {
-    const fib = new Array(100).fill(0);
-    fib[0] = 1;
-    fib[1] = 1;
+    const fib = [1, 1]
 
-    for(let i = 2; i < 100; i++) {
+    for(let i = 2; fib[i - 1] < k; i++) {
         fib[i] = fib[i - 1] + fib[i - 2];
     }
 
