@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-advantage-shuffle](https://github.com/josetano2/Leetcode/tree/main/0870-advantage-shuffle/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/josetano2/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/josetano2/Leetcode/tree/main/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/josetano2/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/josetano2/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/josetano2/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/josetano2/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/josetano2/Leetcode/tree/main/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/josetano2/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/josetano2/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
