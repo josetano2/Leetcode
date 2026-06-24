@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/josetano2/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/josetano2/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/josetano2/Leetcode/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/josetano2/Leetcode/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/josetano2/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/josetano2/Leetcode/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/josetano2/Leetcode/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/josetano2/Leetcode/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/josetano2/Leetcode/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/josetano2/Leetcode/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -634,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/josetano2/Leetcode/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/josetano2/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/josetano2/Leetcode/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
