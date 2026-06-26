@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2462-total-cost-to-hire-k-workers](https://github.com/josetano2/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/josetano2/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/josetano2/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2739-total-distance-traveled](https://github.com/josetano2/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/josetano2/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/josetano2/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/josetano2/Leetcode/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/josetano2/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/josetano2/Leetcode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/josetano2/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2739-total-distance-traveled](https://github.com/josetano2/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
 | [3099-harshad-number](https://github.com/josetano2/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/josetano2/Leetcode/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/josetano2/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
