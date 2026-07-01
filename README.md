@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-most-profit-assigning-work](https://github.com/josetano2/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/josetano2/Leetcode/tree/main/0870-advantage-shuffle/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/josetano2/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/josetano2/Leetcode/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/josetano2/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/josetano2/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
