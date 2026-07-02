@@ -28,7 +28,6 @@ function maximumLength(nums: number[]): number {
             }
 
             if (freq.get(curr ** 2)) len++;
-
             if (len != 2) ans = Math.max(ans, len);
         }
     }
