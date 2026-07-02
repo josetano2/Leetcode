@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/josetano2/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/josetano2/Leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
+| [1936-add-minimum-number-of-rungs](https://github.com/josetano2/Leetcode/tree/main/1936-add-minimum-number-of-rungs/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/josetano2/Leetcode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/josetano2/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/josetano2/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/josetano2/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/josetano2/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/josetano2/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1936-add-minimum-number-of-rungs](https://github.com/josetano2/Leetcode/tree/main/1936-add-minimum-number-of-rungs/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/josetano2/Leetcode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/josetano2/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/josetano2/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
