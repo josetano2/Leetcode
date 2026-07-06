@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1109-corporate-flight-bookings](https://github.com/josetano2/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/josetano2/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/josetano2/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/josetano2/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1306-jump-game-iii](https://github.com/josetano2/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/josetano2/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-advantage-shuffle](https://github.com/josetano2/Leetcode/tree/main/0870-advantage-shuffle/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/josetano2/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/josetano2/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/josetano2/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/josetano2/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
