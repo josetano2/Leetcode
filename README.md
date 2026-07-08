@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/josetano2/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/josetano2/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/josetano2/Leetcode/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/josetano2/Leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1470-shuffle-the-array](https://github.com/josetano2/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/josetano2/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/josetano2/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
