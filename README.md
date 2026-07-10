@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0833-find-and-replace-in-string](https://github.com/josetano2/Leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/josetano2/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1002-find-common-characters](https://github.com/josetano2/Leetcode/tree/main/1002-find-common-characters/) | Easy |
+| [1023-camelcase-matching](https://github.com/josetano2/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/josetano2/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/josetano2/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/josetano2/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/josetano2/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1002-find-common-characters](https://github.com/josetano2/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/josetano2/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1023-camelcase-matching](https://github.com/josetano2/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1094-car-pooling](https://github.com/josetano2/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/josetano2/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/josetano2/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-most-profit-assigning-work](https://github.com/josetano2/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/josetano2/Leetcode/tree/main/0870-advantage-shuffle/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1023-camelcase-matching](https://github.com/josetano2/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/josetano2/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/josetano2/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/josetano2/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1023-camelcase-matching](https://github.com/josetano2/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/josetano2/Leetcode/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/josetano2/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/josetano2/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -633,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/josetano2/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1023-camelcase-matching](https://github.com/josetano2/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
