@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/josetano2/Leetcode/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/josetano2/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/josetano2/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/josetano2/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/josetano2/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/josetano2/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/josetano2/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/josetano2/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/josetano2/Leetcode/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/josetano2/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/josetano2/Leetcode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2865-beautiful-towers-i](https://github.com/josetano2/Leetcode/tree/main/2865-beautiful-towers-i/) | Medium |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/josetano2/Leetcode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
