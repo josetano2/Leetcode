@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/josetano2/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/josetano2/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/josetano2/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/josetano2/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/josetano2/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/josetano2/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/josetano2/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/josetano2/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0525-contiguous-array](https://github.com/josetano2/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/josetano2/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/josetano2/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0189-rotate-array](https://github.com/josetano2/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/josetano2/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/josetano2/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/josetano2/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/josetano2/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -433,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/josetano2/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/josetano2/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0475-heaters](https://github.com/josetano2/Leetcode/tree/main/0475-heaters/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/josetano2/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/josetano2/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/josetano2/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/josetano2/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
