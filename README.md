@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/josetano2/Leetcode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3210-find-the-encrypted-string](https://github.com/josetano2/Leetcode/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/josetano2/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/josetano2/Leetcode/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/josetano2/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/josetano2/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2895-minimum-processing-time](https://github.com/josetano2/Leetcode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2933-high-access-employees](https://github.com/josetano2/Leetcode/tree/main/2933-high-access-employees/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/josetano2/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/josetano2/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/josetano2/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/josetano2/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/josetano2/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/josetano2/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/josetano2/Leetcode/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/josetano2/Leetcode/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/josetano2/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/josetano2/Leetcode/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/josetano2/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/josetano2/Leetcode/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
