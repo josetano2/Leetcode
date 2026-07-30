@@ -548,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/josetano2/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/josetano2/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/josetano2/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/josetano2/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1306-jump-game-iii](https://github.com/josetano2/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/josetano2/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/josetano2/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/josetano2/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/josetano2/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/josetano2/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1306-jump-game-iii](https://github.com/josetano2/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/josetano2/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/josetano2/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/josetano2/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/josetano2/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/josetano2/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/josetano2/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/josetano2/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
