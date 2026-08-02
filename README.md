@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/josetano2/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/josetano2/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/josetano2/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
+| [0877-stone-game](https://github.com/josetano2/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/josetano2/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/josetano2/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/josetano2/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0833-find-and-replace-in-string](https://github.com/josetano2/Leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0870-advantage-shuffle](https://github.com/josetano2/Leetcode/tree/main/0870-advantage-shuffle/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/josetano2/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
+| [0877-stone-game](https://github.com/josetano2/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/josetano2/Leetcode/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
 | [0948-bag-of-tokens](https://github.com/josetano2/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/josetano2/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/josetano2/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0754-reach-a-number](https://github.com/josetano2/Leetcode/tree/main/0754-reach-a-number/) | Medium |
 | [0788-rotated-digits](https://github.com/josetano2/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/josetano2/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/josetano2/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/josetano2/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/josetano2/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -650,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/josetano2/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/josetano2/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
