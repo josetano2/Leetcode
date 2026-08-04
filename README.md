@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3708-longest-fibonacci-subarray](https://github.com/josetano2/Leetcode/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/josetano2/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/josetano2/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3731-find-missing-elements](https://github.com/josetano2/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/josetano2/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/josetano2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/josetano2/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3527-find-the-most-common-response](https://github.com/josetano2/Leetcode/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/josetano2/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/josetano2/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3731-find-missing-elements](https://github.com/josetano2/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/josetano2/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/josetano2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/josetano2/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3634-minimum-removals-to-balance-array](https://github.com/josetano2/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/josetano2/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/josetano2/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3731-find-missing-elements](https://github.com/josetano2/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/josetano2/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/josetano2/Leetcode/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/josetano2/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
